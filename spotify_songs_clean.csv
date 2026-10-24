@@ -1,0 +1,949 @@
+item_id,track_name,artist_name,release_date,streams,bpm,danceability,energy,valence
+1,Seven (feat. Latto) (Explicit Ver.),"Latto, Jung Kook",2023-07-14,141381703,125,80,83,89
+2,LALA,Myke Towers,2023-03-23,133716286,92,71,74,61
+3,vampire,Olivia Rodrigo,2023-06-30,140003974,138,51,53,32
+4,Cruel Summer,Taylor Swift,2019-08-23,800840817,170,55,72,58
+5,WHERE SHE GOES,Bad Bunny,2023-05-18,303236322,144,65,80,23
+6,Sprinter,"Dave, Central Cee",2023-06-01,183706234,141,92,58,66
+7,Ella Baila Sola,"Eslabon Armado, Peso Pluma",2023-03-16,725980112,148,67,76,83
+8,Columbia,Quevedo,2023-07-07,58149378,100,67,71,26
+9,fukumean,Gunna,2023-05-15,95217315,130,85,62,22
+10,La Bebe - Remix,"Peso Pluma, Yng Lvcas",2023-03-17,553634067,170,81,48,56
+11,un x100to,"Bad Bunny, Grupo Frontera",2023-04-17,505671438,83,57,72,56
+12,Super Shy,NewJeans,2023-07-07,58255150,150,78,82,52
+13,Flowers,Miley Cyrus,2023-01-12,1316855716,118,71,68,65
+14,Daylight,David Kushner,2023-04-14,387570742,130,51,43,32
+15,As It Was,Harry Styles,2022-03-31,2513188493,174,52,73,66
+16,Kill Bill,SZA,2022-12-08,1163093654,89,64,73,43
+17,Cupid - Twin Ver.,Fifty Fifty,2023-02-24,496795686,120,78,59,76
+18,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,2023-07-13,30546883,78,44,9,14
+19,Classy 101,"Feid, Young Miko",2023-03-31,335222234,100,86,66,67
+20,Like Crazy,Jimin,2023-03-24,363369738,120,63,73,36
+21,LADY GAGA,"Gabito Ballesteros, Junior H, Peso Pluma",2023-06-22,86444842,140,65,74,87
+22,I Can See You (Taylorï¿½ï¿½ï¿½s Version) (From The ,Taylor Swift,2023-07-07,52135248,123,69,76,82
+23,I Wanna Be Yours,Arctic Monkeys,2013-01-01,1297026226,135,48,42,44
+24,"Peso Pluma: Bzrp Music Sessions, Vol. 55","Bizarrap, Peso Pluma",2023-05-31,200647221,133,85,67,81
+25,Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series),"The Weeknd, Madonna, Playboi Carti",2023-06-02,115364561,99,85,68,83
+26,SABOR FRESA,Fuerza Regida,2023-06-22,78300654,130,79,86,96
+27,Calm Down (with Selena Gomez),"Rï¿½ï¿½ma, Selena G",2022-03-25,899183384,107,80,80,82
+28,MOJABI GHOST,"Tainy, Bad Bunny",2023-06-29,61245289,122,81,71,74
+29,Last Night,Morgan Wallen,2023-01-31,429829812,204,52,68,52
+30,Dance The Night (From Barbie The Album),Dua Lipa,2023-05-25,127408954,110,67,85,78
+31,Rush,Troye Sivan,2023-07-13,22581161,126,74,84,35
+32,TULUM,"Peso Pluma, Grupo Frontera",2023-06-28,52294266,168,56,87,63
+33,Creepin',"The Weeknd, 21 Savage, Metro Boomin",2022-12-02,843957510,98,71,61,17
+34,Anti-Hero,Taylor Swift,2022-10-21,999748277,97,64,63,51
+35,TQG,"Karol G, Shakira",2023-02-23,618990393,180,72,63,61
+36,Los del Espacio,"Big One, Duki, Lit Killah, Maria Becerra, FMK, Rusherking, Emilia, Tiago pzk",2023-06-01,123122413,120,81,68,63
+37,Frï¿½ï¿½gil (feat. Grupo Front,"Yahritza Y Su Esencia, Grupo Frontera",2023-04-07,188933502,150,61,73,39
+38,Blank Space,Taylor Swift,2014-01-01,1355959075,96,75,68,57
+39,Style,Taylor Swift,2014-01-01,786181836,95,60,79,48
+40,TQM,Fuerza Regida,2023-05-19,176553476,125,79,85,96
+41,El Azul,"Junior H, Peso Pluma",2023-02-10,354495408,144,56,65,84
+42,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",2018-10-09,2808096550,90,76,50,91
+43,I'm Good (Blue),"Bebe Rexha, David Guetta",2022-08-26,1109433169,128,56,97,38
+44,See You Again,"Tyler, The Creator, Kali Uchis",2017-07-21,1047101291,79,56,56,58
+45,Barbie World (with Aqua) [From Barbie The Album],"Nicki Minaj, Aqua, Ice Spice",2023-06-23,65156199,144,77,58,75
+46,Angels Like You,Miley Cyrus,2020-11-27,570515054,122,67,64,49
+47,I Ain't Worried,OneRepublic,2022-05-13,1085685420,140,71,81,82
+48,Die For You,The Weeknd,2016-11-24,1647990401,134,59,52,51
+49,Starboy,"The Weeknd, Daft Punk",2016-09-21,2565529693,186,68,59,49
+50,Die For You - Remix,"Ariana Grande, The Weeknd",2023-02-24,518745108,67,53,53,50
+51,El Cielo,"Feid, Myke Towers, Sky Rompiendo",2023-06-02,107753850,106,72,64,17
+52,Baby Don't Hurt Me,"David Guetta, Anne-Marie, Coi Leray",2023-04-06,177740666,128,60,91,23
+53,AMARGURA,Karol G,2023-02-24,153372011,107,92,70,55
+54,(It Goes Like) Nanana - Edit,Peggy Gou,2023-06-15,57876440,130,67,88,96
+55,Another Love,Tom Odell,2012-10-15,1813673666,123,45,54,13
+56,Blinding Lights,The Weeknd,2019-11-29,3703895074,171,50,80,38
+57,Moonlight,Kali Uchis,2023-02-24,256483385,137,64,72,88
+58,La Bachata,Manuel Turizo,2022-05-26,1214083358,125,84,68,85
+59,S91,Karol G,2023-07-14,16011326,128,86,72,42
+60,cardigan,Taylor Swift,2020-07-24,812019557,130,61,58,53
+61,Tï¿½ï¿,"dennis, MC Kevin o Chris",2023-05-04,111947664,130,86,96,59
+62,Boy's a liar Pt. 2,"PinkPantheress, Ice Spice",2023-02-03,156338624,133,70,81,86
+63,Left and Right (Feat. Jung Kook of BTS),"Charlie Puth, BTS, Jung Kook",2022-06-24,720434240,101,88,59,72
+64,BESO,"Rauw Alejandro, ROSALï¿½",2023-03-24,357925728,95,77,64,53
+65,Hey Mor,"Ozuna, Feid",2022-10-06,674072710,98,90,59,40
+66,Yellow,Chris Molitor,1999-01-01,1755214421,173,43,66,28
+67,Karma,Taylor Swift,2022-10-21,404562836,90,64,62,10
+68,People,Libianca,2022-12-02,373199958,198,59,42,71
+69,Overdrive,Post Malone,2023-07-14,14780425,140,56,73,48
+70,Enchanted (Taylor's Version),Taylor Swift,2023-07-07,39578178,82,51,53,22
+71,BABY HELLO,"Rauw Alejandro, Bizarrap",2023-06-23,54266102,130,77,89,84
+72,Heat Waves,Glass Animals,2020-06-28,2557975762,81,76,53,53
+73,golden hour,JVKE,2022-07-15,751134527,94,51,59,14
+74,Sweater Weather,The Neighbourhood,2012-05-14,2282771485,124,61,81,41
+75,"Quevedo: Bzrp Music Sessions, Vol. 52","Bizarrap, Quevedo",2022-07-06,1356565093,128,62,78,55
+76,Viva La Vida,Coldplay,2008-01-01,1592909789,138,49,62,42
+77,Here With Me,d4vd,2022-07-17,635412045,132,58,48,27
+78,Unholy (feat. Kim Petras),"Sam Smith, Kim Petras",2022-09-22,1230675890,131,71,47,24
+79,Yandel 150,"Yandel, Feid",2022-12-20,585695368,168,78,73,58
+80,CORAZï¿½ï¿½N VA,Maria Becerra,2023-06-22,43857627,98,68,79,40
+81,Riptide,Vance Joy,1975-01-01,2009094673,102,48,73,50
+82,Until I Found You (with Em Beihold) - Em Beihold Version,"Em Beihold, Stephen Sanchez",2022-04-22,600976848,101,34,57,32
+83,Novidade na ï¿½ï¿,"Mc Livinho, DJ Matt D",2023-06-23,39709092,130,63,34,36
+84,Back To December (Taylor's Version),Taylor Swift,2023-07-07,39228929,142,50,64,20
+85,STAY (with Justin Bieber),"Justin Bieber, The Kid Laroi",2021-07-09,2665343922,170,59,76,48
+86,El Merengue,"Marshmello, Manuel Turizo",2023-03-03,223633238,124,78,68,70
+87,Someone You Loved,Lewis Capaldi,2018-11-08,2887241814,110,50,41,45
+88,Me Porto Bonito,"Chencho Corleone, Bad Bunny",2022-05-06,1440757818,92,91,71,43
+89,Makeba,Jain,2015-06-22,165484133,116,82,66,40
+90,MONTAGEM - FR PUNK,"Ayparia, unxbected",2012-06-20,58054811,129,63,82,84
+91,Fast Car,Luke Combs,2023-03-24,157058870,98,71,60,67
+92,What It Is (Solo Version),Doechii,2023-03-17,95131998,172,74,76,76
+93,Coco Chanel,"Bad Bunny, Eladio Carrion",2023-03-17,250305248,150,68,76,14
+94,Donï¿½ï¿½ï¿½t Bl,Taylor Swift,2017-11-08,685032533,136,62,53,19
+95,Still With You,Jung Kook,2020-06-05,38411956,88,53,47,34
+96,All My Life (feat. J. Cole),"J. Cole, Lil Durk",2023-05-12,144565150,143,83,44,69
+97,Say Yes To Heaven,Lana Del Rey,2023-03-17,127567540,100,49,35,17
+98,Snooze,SZA,2022-12-09,399686758,143,56,55,39
+99,Summertime Sadness,Lana Del Rey,2011-01-01,983637508,112,56,66,24
+100,Take Two,BTS,2023-06-09,118482347,93,62,59,57
+101,Lover,Taylor Swift,2012-01-01,882831184,206,43,55,50
+102,Too Many Nights (feat. Don Toliver & with Future),"Future, Metro Boomin, Don Toliver",2022-12-02,286400165,88,68,71,17
+103,Chemical,Post Malone,2023-04-14,172825906,170,50,90,37
+104,Mockingbird,Eminem,2004-01-01,1241559043,84,62,67,24
+105,New Jeans,NewJeans,2023-07-07,29562220,134,81,72,53
+106,Primera Cita,Carin Leon,2022-04-20,77309611,158,54,40,50
+107,Cold Heart - PNAU Remix,"Dua Lipa, Elton John, Pnau",2017-11-10,1605224506,116,80,80,92
+108,Dandelions,Ruth B.,2017-04-28,1116995633,117,61,69,45
+109,Bones,Imagine Dragons,2021-03-11,838079900,114,77,72,65
+110,Set Fire to the Rain,Adele,2011-01-01,1163620694,108,61,68,47
+111,Money Trees,"Kendrick Lamar, Jay Rock",2012-01-01,1093605526,144,74,53,37
+112,Tak Segampang Itu,Anggi Marito,2022-12-02,179659294,130,51,44,18
+113,LAGUNAS,"Jasiel Nuï¿½ï¿½ez, Peso P",2023-06-22,39058561,116,77,62,79
+114,Mine (Taylor's Version),Taylor Swift,2023-07-07,36912123,121,65,78,49
+115,Everybody Wants To Rule The World,Tears For Fears,1985-02-17,1205951614,112,64,81,54
+116,No Role Modelz,J. Cole,2014-12-09,1791000570,100,70,52,47
+117,Tattoo,Loreen,2023-02-25,201660859,150,55,78,30
+118,Rara Vez,"Taiu, Milo j",2023-02-08,248088961,120,84,71,96
+119,VAGABUNDO,"Sebastian Yatra, Manuel Turizo, Beï¿½ï",2023-05-12,90839753,127,82,85,89
+120,august,Taylor Swift,2020-07-24,607123776,90,51,61,42
+121,LUNA,"Junior H, Peso Pluma",2023-06-22,55842345,128,75,63,79
+122,Miracle (with Ellie Goulding),"Calvin Harris, Ellie Goulding",2023-03-10,211050784,143,64,87,31
+123,Nonsense,Sabrina Carpenter,2022-07-15,342897938,139,74,68,68
+124,Que Vuelvas,"Carin Leon, Grupo Frontera",2022-12-09,2762,162,49,64,78
+125,Por las Noches,Peso Pluma,2021-06-11,330346424,92,81,60,39
+126,Feliz Cumpleaï¿½ï¿½os Fe,Feid,2022-08-19,601863821,95,87,55,57
+127,Can't Hold Us (feat. Ray Dalton),"Ray Dalton, Ryan Lewis, Macklemore",2011-08-16,1953533826,146,63,93,88
+128,Watermelon Sugar,Harry Styles,2019-11-17,2322580122,95,55,82,56
+129,lovely - Bonus Track,"Billie Eilish, Khalid",2017-08-11,2355719893,115,35,30,12
+130,"Rauw Alejandro: Bzrp Music Sessions, Vol. 56","Rauw Alejandro, Bizarrap",2023-06-21,66902503,128,78,65,59
+131,Queencard,(G)I-DLE,2023-05-15,96273746,130,82,83,69
+132,OMG,NewJeans,2023-01-02,430977451,127,80,77,74
+133,Radio,Lana Del Rey,2011-01-01,284819874,150,42,86,20
+134,"Shakira: Bzrp Music Sessions, Vol. 53","Shakira, Bizarrap",2023-01-11,721975598,122,78,63,50
+135,505,Arctic Monkeys,2007-04-20,1217120710,140,52,85,20
+136,"Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)","Swae Lee, A Boogie Wit da Hoodie, Metro Boomin, NAV",2023-06-02,109276132,140,63,54,22
+137,Trance (with Travis Scott & Young Thug),"Travis Scott, Young Thug, Metro Boomin",2022-12-02,276259178,119,75,53,48
+138,"Tere Vaaste (From ""Zara Hatke Zara Bachke"")","Sachin-Jigar, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya, Varun Jain",2023-05-22,54225632,110,76,72,96
+139,Perfect,Ed Sheeran,2017-01-01,2559529074,95,60,45,17
+140,Romantic Homicide,d4vd,2022-07-20,681583126,132,56,55,20
+141,Believer,Imagine Dragons,2017-01-31,2594040133,125,77,78,74
+142,Novo Balanï¿½,"Veigh, Bvga Beatz, Supernova Ent, Prod Malax",2023-05-19,81102253,124,84,50,65
+143,"Gol Bolinha, Gol Quadrado 2","Mc Pedrinho, DJ 900",2023-06-01,11956641,133,93,65,68
+144,Without Me,Eminem,2002-01-01,1687664027,112,92,66,67
+145,QUEMA,"Sog, Ryan Castro, Peso Pluma",2023-07-13,11599388,97,79,89,92
+146,Stargirl Interlude,"The Weeknd, Lana Del Rey",2016-11-24,611700552,90,59,48,52
+147,Ojitos Lindos,"Bomba Estï¿½ï¿½reo, Bad B",2022-05-06,1133865788,80,65,69,27
+148,Somewhere Only We Know,Keane,2004-01-01,1089402494,172,45,59,33
+149,Those Eyes,New West,2019-05-10,411747614,120,60,35,24
+150,El Gordo Trae El Mando,Chino Pacas,2023-01-27,255932395,140,74,80,96
+151,Mi Bello Angel,Natanael Cano,2023-06-30,31873544,128,81,77,90
+152,Bye,Peso Pluma,2023-05-26,95053634,122,78,81,70
+153,Danza Kuduro,"Don Omar, Lucenzo",2010-01-01,1279434863,130,47,92,86
+154,Nosso Quadro,"Ana Castela, AgroPlay",2023-02-02,233801632,160,69,71,61
+155,Locked Out Of Heaven,Bruno Mars,2012-12-05,1481349984,144,73,70,87
+156,Un Finde | CROSSOVER #2,"Big One, FMK, Ke personajes",2023-04-04,142095275,192,50,52,85
+157,Jimmy Cooks (feat. 21 Savage),"Drake, 21 Savage",2022-06-17,618885532,163,54,67,40
+158,Counting Stars,OneRepublic,2013-01-01,2011464183,122,66,71,48
+159,Ghost,Justin Bieber,2021-03-19,1167330737,154,61,74,41
+160,Under The Influence,Chris Brown,2019-10-04,929964809,117,73,69,31
+161,PRC,"Natanael Cano, Peso Pluma",2023-01-23,436027885,138,78,83,89
+162,Gasolina,Daddy Yankee,2004-07-13,657723613,96,86,80,74
+163,One Dance,"Drake, WizKid, Kyla",2016-04-04,2713922350,104,77,63,36
+164,Enchanted,Taylor Swift,2010-01-01,621660989,164,45,62,24
+165,Save Your Tears,The Weeknd,2020-03-20,1591223784,118,68,82,61
+166,Sure Thing,Miguel,2010-05-25,950906471,81,68,60,51
+167,Every Breath You Take - Remastered 2003,The Police,1983-01-06,1593270737,117,82,45,73
+168,The Night We Met,Lord Huron,2015-02-02,1410088830,174,45,37,10
+169,We Found Love,"Rihanna, Calvin Harris",2011-01-01,1235005533,128,73,77,60
+170,When I Was Your Man,Bruno Mars,2012-12-05,1661187319,145,60,27,43
+171,Let Me Down Slowly,Alec Benjamin,2018-05-25,1374581173,150,65,55,51
+172,"Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)","A$AP Rocky, Metro Boomin, Roisee",2023-06-02,94186466,90,60,53,13
+173,Do I Wanna Know?,Arctic Monkeys,2013-01-01,1788326445,85,55,53,42
+174,Demons,Imagine Dragons,2012-01-01,1840364617,180,33,71,38
+175,ýýýýýýýýýýýý,YOASOBI,2023-04-12,143573775,166,57,94,84
+176,Reminder,The Weeknd,2016-11-25,684675814,160,71,50,40
+177,Shake It Off,Taylor Swift,2014-01-01,1113838873,160,65,80,95
+178,Why'd You Only Call Me When You're High?,Arctic Monkeys,2013-01-01,1267333350,92,70,63,81
+179,SNAP,Rosa Linn,2022-03-19,726307468,170,56,64,53
+180,Shape of You,Ed Sheeran,2017-01-06,3562543890,96,83,65,93
+181,Night Changes,One Direction,2014-11-17,1131090940,120,67,52,40
+182,Fin de Semana,"Oscar Maydon, Junior H",2023-01-13,307370144,98,70,54,37
+183,Creep,Radiohead,1992-09-21,1271293243,92,53,34,12
+184,Car's Outside,James Arthur,2019-10-18,265882712,150,34,56,24
+185,Apocalypse,Cigarettes After Sex,2017-03-21,841749534,94,37,47,17
+186,Cheques,Shubh,2023-05-19,47956378,90,74,63,36
+187,Pink + White,Frank Ocean,2016-08-20,806397070,160,54,55,54
+188,Circles,Post Malone,2019-08-30,2132335812,120,70,75,59
+189,Just The Way You Are,Bruno Mars,2010-01-01,1641426668,109,63,85,46
+190,Take Me To Church,Hozier,2013-09-13,2135158446,129,57,66,41
+191,Bebe Dame,"Fuerza Regida, Grupo Frontera",2022-12-16,367316268,157,54,60,75
+192,You Belong With Me (Taylorï¿½ï¿½ï¿½s Ve,Taylor Swift,2021-04-09,350381515,130,63,73,49
+193,Titi Me Preguntï¿,Bad Bunny,2022-05-06,1264310836,107,65,72,19
+194,Better Than Revenge (Taylor's Version),Taylor Swift,2023-07-07,30343206,146,50,89,67
+195,Shut up My Moms Calling,Hotel Ugly,2020-02-10,405136812,139,48,41,37
+196,Have You Ever Seen The Rain?,Creedence Clearwater Revival,1968-07-01,1145727611,116,74,70,76
+197,Es un Secreto,Plan B,2010-07-20,540654286,95,84,77,52
+198,POLARIS - Remix,"Feid, Mora, Saiko, Quevedo",2023-06-08,57312735,170,62,80,55
+199,Ditto,NewJeans,2022-12-19,397582059,134,81,64,18
+200,Take On Me,a-ha,1984-10-19,1479115056,84,57,90,86
+201,"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)","Swae Lee, Lil Wayne, Offset, Metro Boomin",2023-06-02,86773632,146,61,48,20
+202,"Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long)","Kodak Black, NLE Choppa, Muni Long, JVKE, Jimin",2023-05-01,133753727,74,53,67,24
+203,Acrï¿½ï¿½s,Shakira,2023-05-11,123124076,144,75,48,35
+204,AMG,"Natanael Cano, Gabito Ballesteros, Peso Pluma",2022-11-24,463564958,136,77,73,79
+205,"Phir Aur Kya Chahiye (From ""Zara Hatke Zara Bachke"")","Arijit Singh, Sachin-Jigar, Amitabha Bhattacharya",2023-05-15,64533040,100,56,55,53
+206,S-Class,Stray Kids,2023-06-02,65496046,105,89,78,67
+207,Hits Different,Taylor Swift,2023-05-26,68616963,106,67,78,24
+208,Chanel,"Becky G, Peso Pluma",2023-03-30,161460990,132,85,68,53
+209,Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray),"Metro Boomin, Coi Leray",2023-06-02,70106975,120,78,30,5
+210,Area Codes,"Kaliii, Kaliii",2023-03-17,113509496,155,82,39,51
+211,Abcdario,"Junior H, Eden Muï¿½ï",2023-05-13,89933133,129,70,43,42
+212,Obsessed,"Abhijay Sharma, Riar Saab",2022-09-29,71007139,135,80,74,85
+213,Piï¿½ï¿½man Deï¿,"Semicenk, Doï¿½ï¿½u ",2023-06-02,43522589,98,73,62,45
+214,FLOWER,JISOO,2023-03-31,232896922,124,84,39,64
+215,"All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert)","Future, Lil Uzi Vert, Metro Boomin",2023-06-02,37126685,135,77,55,28
+216,Eyes Closed,Ed Sheeran,2023-03-23,195576623,107,78,53,39
+217,Escapism.,"RAYE, 070 Shake",2022-10-12,532336353,96,54,74,25
+218,La Jumpa,"Arcangel, Bad Bunny",2022-11-30,538115192,123,71,70,58
+219,Karma (feat. Ice Spice),"Taylor Swift, Ice Spice",2023-05-26,46142772,90,62,62,7
+220,Superhero (Heroes & Villains) [with Future & Chris Brown],"Future, Chris Brown, Metro Boomin",2022-12-02,401036314,117,72,59,45
+221,Las Morras,"BLESSD, Peso Pluma",2023-04-04,127026613,133,78,84,90
+222,CHORRITO PA LAS ANIMAS,Feid,2022-12-02,345031710,96,74,83,61
+223,Ch y la Pizza,"Fuerza Regida, Natanael Cano",2022-12-01,288101651,149,66,60,85
+224,Snow On The Beach (feat. More Lana Del Rey),"Lana Del Rey, Taylor Swift",2023-05-26,60350538,110,66,40,32
+225,Players,Coi Leray,2022-11-30,335074782,105,95,52,62
+226,Bite Me,ENHYPEN,2023-05-22,76767396,105,80,78,69
+227,Stand By Me (feat. Morgan Wallen),"Lil Durk, Morgan Wallen",2023-05-26,46065667,134,76,58,61
+228,Normal,Feid,2022-07-08,459276435,170,71,56,59
+229,Hummingbird (Metro Boomin & James Blake),"James Blake, Metro Boomin",2023-06-02,39666245,81,59,60,26
+230,Seu Brilho Sumiu - Ao Vivo,"Israel & Rodolffo, Mari Fernandez",2023-03-01,138517666,154,63,92,75
+231,Bad Habit,Steve Lacy,2022-06-29,822633917,169,69,51,69
+232,CUFF IT,Beyoncï¿,2022-07-29,595900742,115,78,69,64
+233,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),"Halsey, Suga",2023-06-05,51985779,84,43,74,14
+234,69,"Nicky Jam, Feid",2023-05-18,57945987,93,79,62,58
+235,Niï¿½ï¿½a Bo,"Sean Paul, Feid",2023-04-21,115010040,91,82,62,47
+236,Search & Rescue,Drake,2023-04-07,175097833,142,82,44,54
+237,AMERICA HAS A PROBLEM (feat. Kendrick Lamar),"Kendrick Lamar, Beyoncï¿",2023-05-19,57089066,126,78,70,20
+238,Lavender Haze,Taylor Swift,2022-10-21,488386797,97,73,44,10
+239,"Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )","WizKid, Toian, Metro Boomin, Don Toliver, Beam",2023-06-02,32761689,101,92,51,59
+240,Efecto,Bad Bunny,2022-05-06,1047480053,98,80,48,23
+241,Erro Gostoso - Ao Vivo,Simone Mendes,2023-01-27,153454328,154,59,89,63
+242,Cupido,Tini,2023-02-14,217672943,120,91,58,63
+243,Just Wanna Rock,Lil Uzi Vert,2022-10-17,457184829,150,49,55,4
+244,Unstoppable,Sia,2016-01-21,939844851,174,47,78,27
+245,Until I Found You,Stephen Sanchez,2021-09-01,726434358,202,34,51,25
+246,Rich Flex,"Drake, 21 Savage",2022-11-04,573633020,153,56,52,42
+247,Easy On Me,Adele,2021-10-14,1406111294,142,60,37,13
+248,Cartï¿½ï¿½o B,"MC Caverinha, KayBlack",2023-05-11,71573339,108,84,47,55
+249,Danger (Spider) (Offset & JID),"Offset, JID",2023-06-02,24975653,143,83,69,25
+250,Oi Balde - Ao Vivo,Zï¿½ï¿½ Neto & Crist,2023-02-14,145458418,108,67,67,55
+251,The Real Slim Shady,Eminem,2000-01-01,1424589568,104,95,66,78
+252,MERCHO,"Migrantes, LiL CaKe, Nico Valdi",2022-12-16,231332117,93,84,79,96
+253,The Color Violet,Tory Lanez,2021-12-10,415932686,105,65,53,46
+254,Glimpse of Us,Joji,2022-06-10,988515741,170,44,32,27
+255,Mejor Que Yo,"Mambo Kingz, DJ Luian, Anuel Aa",2023-05-04,50847624,178,62,66,56
+256,Curtains,Ed Sheeran,2023-05-05,39893489,176,50,76,44
+257,UNFORGIVEN (feat. Nile Rodgers),"Nile Rodgers, LE SSERAFIM",2023-05-01,92035115,104,80,88,38
+258,Haegeum,Agust D,2023-04-21,118810253,85,70,84,83
+259,Conexï¿½ï¿½es de Mï¿½ï¿½fia (feat. Rich ,"Rich The Kid, Matuï¿",2023-04-30,77233241,117,77,58,69
+260,MIENTRAS ME CURO DEL CORA,Karol G,2023-02-24,206399629,80,52,48,57
+261,Never Felt So Alone,Labrinth,2023-04-07,117747907,98,44,41,36
+262,X SI VOLVEMOS,"Karol G, Romeo Santos",2023-02-02,266624541,178,79,78,58
+263,ceilings,Lizzy McAlpine,2022-04-08,293186992,148,51,33,27
+264,Cupid,Fifty Fifty,2023-02-24,139681964,120,77,66,94
+265,I AM,IVE,2023-04-10,123132751,122,68,88,38
+266,Cupid ï¿½ï¿½ï¿½ Twin Ver. (FIFTY FIFTY) ï¿½ï¿½ï¿½ Spe,sped up 8282,1997-01-01,103762518,144,74,73,75
+267,Shorty Party,"Cartel De Santa, La Kelly",2023-03-04,162887075,96,93,47,47
+268,Super,SEVENTEEN,2023-04-24,91221625,137,77,88,35
+269,Slut Me Out,NLE Choppa,2022-04-22,190490915,121,94,61,71
+270,Double Fantasy (with Future),"The Weeknd, Future",2023-04-21,96180277,119,60,57,10
+271,All Of The Girls You Loved Before,Taylor Swift,2019-08-23,185240616,96,72,47,40
+272,PROVENZA,Karol G,2022-04-21,885093467,111,87,52,53
+273,Princess Diana (with Nicki Minaj),"Nicki Minaj, Ice Spice",2023-04-14,104992946,148,90,68,74
+274,Di Que Si,"Grupo Marca Registrada, Grupo Frontera",2023-02-03,147290338,182,57,59,80
+275,Shivers,Ed Sheeran,2021-09-09,1302184087,141,79,86,82
+276,Igualito a Mi Apï¿,"Fuerza Regida, Peso Pluma",2022-12-30,158950978,145,76,81,80
+277,Shoong! (feat. LISA of BLACKPINK),"TAEYANG, Lisa",2023-04-25,76910644,110,76,70,26
+278,Komang,Raim Laode,2022-08-16,137123880,134,70,41,35
+279,DESPECHï¿,ROSALï¿½,2022-07-28,782369383,130,92,62,78
+280,Made You Look,Meghan Trainor,2022-10-21,502574952,145,84,53,88
+281,Watch This - ARIZONATEARS Pluggnb Remix,"sped up nightcore, ARIZONATEARS, Lil Uzi Vert",2023-02-05,207033255,130,69,90,36
+282,No Se Va,Grupo Frontera,2022-04-28,404887295,173,59,53,69
+283,Punto G,Quevedo,2022-11-04,381161027,92,75,76,55
+284,Lovers Rock,TV Girl,2014-06-05,466231982,105,56,87,57
+285,METAMORPHOSIS,INTERWORLD,2021-11-25,357580552,175,59,64,15
+286,Mami Chula,"Quevedo, Jhayco",2023-04-27,61105704,120,80,70,33
+287,En Paris,"El Chachito, Junior H",2022-12-24,198275403,139,70,48,77
+288,Set Me Free Pt.2,Jimin,2023-03-17,168448603,132,59,82,56
+289,I Was Never There,"The Weeknd, Gesaffelstein",2018-03-29,705469769,114,32,74,17
+290,Don't ever say love me (feat. RM of BTS),"RM, Colde",2023-05-04,34502215,145,54,48,19
+291,Shut Down,BLACKPINK,2022-09-16,482175240,110,82,69,67
+292,Gato de Noche,"Nengo Flow, Bad Bunny",2022-12-22,304118600,94,89,66,61
+293,Call Out My Name,The Weeknd,2018-03-29,1449799467,134,45,60,17
+294,Like Crazy (English Version),Jimin,2023-03-24,173627354,120,62,76,32
+295,Rosa Pastel,"Jasiel Nuï¿½ï¿½ez, Peso P",2023-02-02,90025258,123,70,68,86
+296,Sunroof,"Nicky Youre, Dazy",2021-12-03,652704649,131,77,71,84
+297,Lose Yourself - Soundtrack Version,Eminem,2002-01-01,1829992958,171,70,73,6
+298,Superman,"Eminem, Dina Rae",2002-05-26,655466831,130,80,76,64
+299,Mas Rica Que Ayer,"Mambo Kingz, DJ Luian, Anuel Aa",2023-03-02,146409671,94,82,67,53
+300,People Pt.2 (feat. IU),"IU, Agust D",2023-04-07,95816024,89,73,57,44
+301,REMIX EXCLUSIVO,Feid,2023-03-17,117206995,87,65,56,71
+302,"Arcï¿½ï¿½ngel: Bzrp Music Sessions, Vol","Arcangel, Bizarrap",2023-03-22,100409613,124,72,78,79
+303,DOGTOOTH,"Tyler, The Creator",2023-03-27,80758350,78,71,65,80
+304,10:35,"Tiï¿½ï¿½sto, Tate M",2022-11-01,325592432,120,70,79,70
+305,SORRY NOT SORRY,"Tyler, The Creator",2023-03-31,58473276,96,48,80,50
+306,HAPPY,NF,2023-03-25,52722996,106,73,86,22
+307,La Bebe,Yng Lvcas,2021-12-24,191945597,170,78,46,75
+308,I Know - PR1SVX Edit,"Kanii, PR1ISVX",2023-03-24,77377503,134,67,76,11
+309,Late Night Talking,Harry Styles,2022-05-20,743693613,115,71,73,90
+310,Leï¿½,Marï¿½ï¿½lia Mendo,2022-12-09,267789608,130,74,87,79
+311,Save Your Tears (with Ariana Grande) (Remix),"Ariana Grande, The Weeknd",2020-03-20,1221813483,118,65,79,63
+312,Something in the Orange,Zach Bryan,2022-04-22,449701773,110,59,38,22
+313,VOID,Melanie Martinez,2023-03-29,67070410,100,72,66,42
+314,Dijeron Que No La Iba Lograr,"Fuerza Regida, Chino Pacas",2023-03-14,116334601,142,70,79,76
+315,Midnight Rain,Taylor Swift,2022-10-21,433356509,140,64,37,18
+316,If We Ever Broke Up,Mae Stephens,2023-02-10,165584767,116,90,73,96
+317,You Proof,Morgan Wallen,2022-05-13,367814306,120,73,85,64
+318,LA INOCENTE,"Feid, Mora",2022-04-01,477033549,92,76,79,46
+319,Malas Decisiones,Kenia OS,2022-10-26,156214700,110,81,79,64
+320,Murder In My Mind,Kordhell,2022-01-21,448843705,120,71,97,57
+321,Gangsta's Paradise,"Coolio, L.V.",1995-07-11,1357608774,80,63,61,40
+322,CAIRO,"Karol G, Ovy On The Drums",2022-11-13,294352144,115,95,69,43
+323,I Love You So,The Walters,2014-11-28,972164968,76,58,67,46
+324,Dark Red,Steve Lacy,2017-02-20,920045682,172,60,78,77
+325,Say You Won't Let Go,James Arthur,2016-09-09,2420461338,99,40,56,45
+326,The Hills,The Weeknd,2015-05-27,1947371785,136,36,57,12
+327,Heart To Heart,Mac DeMarco,2019-05-10,244658767,150,90,14,64
+328,Peaches (from The Super Mario Bros. Movie),Jack Black,2023-04-07,68216992,92,71,31,41
+329,Marisola - Remix,"Duki, NICKI NICOLE, Cris Mj, Standly, Stars Music Chile",2022-12-15,223582566,95,77,87,72
+330,LOKERA,"Brray, Rauw Alejandro, Lyanno",2022-07-25,471819764,102,83,83,58
+331,Low,SZA,2022-12-09,272377463,145,70,55,34
+332,Numb,Linkin Park,2003-03-24,1361425037,110,50,86,24
+333,Tormenta (feat. Bad Bunny),"Gorillaz, Bad Bunny",2023-02-24,149778242,95,64,77,30
+334,on the street (with J. Cole),"j-hope, J. Cole",2023-03-03,116599790,94,68,82,81
+335,One Thing At A Time,Morgan Wallen,2022-12-02,148469433,142,61,91,92
+336,Miss You,"Robin Schulz, Oliver Tree",2022-08-05,497225336,145,59,74,20
+337,Ainï¿½ï¿½ï¿½t Tha,Morgan Wallen,2023-03-03,88791109,121,64,80,67
+338,Thinkinï¿½ï¿½ï¿½ B,Morgan Wallen,2023-03-03,125917280,140,66,76,43
+339,Private Landing (feat. Justin Bieber & Future),"Don Toliver, Future, Justin Bieber",2023-02-23,105062254,137,84,67,44
+340,Everything I Love,Morgan Wallen,2023-01-31,95623148,104,56,85,72
+341,Heaven,Niall Horan,2023-02-17,144584800,92,57,76,68
+342,LET GO,Central Cee,2022-12-15,298063749,146,74,45,51
+343,Sial,Mahalini,2023-01-23,166570053,120,56,43,20
+344,I Wrote The Book,Morgan Wallen,2023-01-31,83021468,144,68,81,83
+345,"Apna Bana Le (From ""Bhediya"")","Arijit Singh, Sachin-Jigar",2022-11-05,139836056,94,59,56,44
+346,SPIT IN MY FACE!,ThxSoMch,2022-10-31,303216294,94,73,79,65
+347,PLAYA DEL INGLï¿½,"Myke Towers, Quevedo",2022-12-15,221409663,113,79,74,66
+348,Man Made A Bar (feat. Eric Church),"Morgan Wallen, Eric Church",2023-03-03,58890931,148,50,76,49
+349,Red Ruby Da Sleeze,Nicki Minaj,2023-03-03,81419389,98,70,73,29
+350,Kahani Suno 2.0,Kaifi Khalil,2022-05-31,156777415,140,58,38,26
+351,Nobody Gets Me,SZA,2022-12-09,284908316,100,36,28,28
+352,PERO Tï¿,"Karol G, Quevedo",2023-02-23,93438910,140,86,79,68
+353,Hype Boy,NewJeans,2022-08-01,363472647,100,59,94,78
+354,Bloody Mary,Lady Gaga,2011-01-01,372476382,100,59,65,49
+355,Monotonï¿½,"Ozuna, Shakira",2022-10-19,380726517,132,87,70,82
+356,ýýý98 Braves,Morgan Wallen,2023-03-03,56533272,142,49,67,48
+357,WANDA,Quevedo,2023-01-20,175399345,176,72,63,96
+358,Thought You Should Know,Morgan Wallen,2022-05-06,203221468,140,53,70,51
+359,In The End,Linkin Park,2000-10-24,1624165576,105,55,90,40
+360,Zona De Perigo,Leo Santana,2022-12-08,134294498,135,81,77,97
+361,Lovezinho,Treyce,2022-07-28,70069745,128,82,59,61
+362,I Like You (A Happier Song) (with Doja Cat),"Post Malone, Doja Cat",2022-06-03,609293408,101,74,69,43
+363,Neverita,Bad Bunny,2022-05-06,671365962,122,88,50,43
+364,Vista Al Mar,Quevedo,2022-09-08,362361576,105,76,56,49
+365,Sem Alianï¿½ï¿½a no ,"MC Xenon, Os Gemeos da Putaria",2022-12-23,93587665,83,53,36,40
+366,Enemy (with JID) - from the series Arcane League of Legends,"Imagine Dragons, League of Legends, JID, Arcane",2021-09-03,1223481149,77,72,76,59
+367,Revenge,XXXTENTACION,2017-08-25,1022258230,140,75,25,18
+368,Bombonzinho - Ao Vivo,"Israel & Rodolffo, Ana Castela",2022-11-03,263453310,158,65,95,72
+369,LA CANCIï¿½,"J Balvin, Bad Bunny",2019-06-28,1435127549,176,75,65,43
+370,Quï¿½ï¿½ Ago,"Yuridia, Angela Aguilar",2022-10-20,236857112,98,73,57,88
+371,Love Again,The Kid Laroi,2023-01-27,147538971,107,66,40,47
+372,After Hours,The Weeknd,2020-02-19,698086140,109,66,57,16
+373,About Damn Time,Lizzo,2022-07-15,723894473,109,84,74,72
+374,Born With A Beer In My Hand,Morgan Wallen,2023-03-03,34450974,148,53,81,61
+375,ýýýýýýýýýýýýýýýýýýýýý,Fujii Kaze,2020-05-20,403097450,158,60,76,52
+376,Besos Moja2,"Wisin & Yandel, ROSALï¿½",2022-09-29,309483971,94,74,73,64
+377,Maan Meri Jaan,King,2022-10-12,319566866,96,70,51,40
+378,Moscow Mule,Bad Bunny,2022-05-06,909001996,100,80,67,29
+379,My Universe,"Coldplay, BTS",2021-09-24,1061966512,105,58,68,42
+380,Devil Donï¿½ï¿½ï¿½,Morgan Wallen,2023-03-03,32526947,125,53,66,32
+381,LLYLM,ROSALï¿½,2023-01-27,124988687,170,56,63,56
+382,I'm Not Here To Make Friends,"Sam Smith, Calvin Harris, Jessie Reyez",2023-01-27,103787664,115,70,90,84
+383,TRUSTFALL,P!nk,2023-01-27,134255790,122,64,89,25
+384,ANTIFRAGILE,LE SSERAFIM,2022-10-17,301051721,105,88,80,82
+385,Boy's a liar,PinkPantheress,2022-11-30,156338624,133,66,84,74
+386,VIBE (feat. Jimin of BTS),"TAEYANG, Jimin",2023-01-13,152850295,100,79,68,60
+387,Shirt,SZA,2022-10-28,309653982,120,82,45,55
+388,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,2022-10-28,297328960,177,25,30,17
+389,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,2022-09-22,332506354,142,64,72,31
+390,"Sex, Drugs, Etc.",Beach Weather,2016-11-04,480507035,144,57,84,47
+391,Boy With Luv (feat. Halsey),"Halsey, BTS",2019-04-12,1065580332,120,65,86,80
+392,"Hey, Mickey!",Baby Tate,2016-09-27,122763672,135,92,51,73
+393,Calm Down,Rï¿½ï,2022-02-09,445763624,107,81,78,82
+394,Jhoome Jo Pathaan,"Arijit Singh, Vishal Dadlani, Sukriti Kakar, Vishal-Shekhar, Shekhar Ravjiani, Kumaar",2022-12-22,1365184,105,82,74,62
+395,Escapism. - Sped Up,"RAYE, 070 Shake",2022-11-25,184308753,108,44,77,38
+396,Space Song,Beach House,2015-01-01,789753877,147,51,79,62
+397,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],"BTS, Jung Kook, FIFA Sound",2022-11-20,323358833,115,71,88,34
+398,Te Felicito,"Shakira, Rauw Alejandro",2022-04-21,606361689,174,70,64,57
+399,Muï¿½ï¿½,"Steve Aoki, Tini, La Joaqui",2023-01-12,120972253,90,68,71,83
+400,TV,Billie Eilish,2022-07-21,338564981,141,41,25,9
+401,I'm Not The Only One,Sam Smith,2014-01-01,1606986953,82,68,49,50
+402,Heather,Conan Gray,2020-03-20,1301799902,92,47,43,25
+403,"Besharam Rang (From ""Pathaan"")","Vishal-Shekhar, Shilpa Rao, Caralisa Monteiro, Kumaar, Vishal Dadlani, Shekhar Ravjiani",2022-12-12,140187018,116,77,80,65
+404,One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",2017-06-02,1897517891,124,79,86,59
+405,Sugar Rush Ride,TOMORROW X TOGETHER,2023-01-27,107642809,125,71,89,83
+406,Pink Venom,BLACKPINK,2022-08-19,551305895,90,80,69,71
+407,WAIT FOR U (feat. Drake & Tems),"Drake, Future, Tems",2022-04-27,556585270,83,46,64,34
+408,Don't Start Now,Dua Lipa,2019-10-31,2303033973,124,79,79,68
+409,After Dark,Mr.Kitty,2014-08-08,646886885,140,58,60,4
+410,Eu Gosto Assim - Ao Vivo,"Gustavo Mioto, Mari Fernandez",2022-09-16,222612678,154,64,91,61
+411,INDUSTRY BABY (feat. Jack Harlow),"Jack Harlow, Lil Nas X",2021-07-23,1814349763,150,74,70,89
+412,MIDDLE OF THE NIGHT,Elley Duhï¿,2020-01-10,872137015,186,41,61,9
+413,Atlantis,Seafret,2015-04-22,571386359,166,40,48,23
+414,PUNTO 40,"Baby Rasta, Rauw Alejandro",2022-09-22,304079786,107,87,83,20
+415,Evoque Prata,"DJ Escobar, MC MENOR SG, MC MENOR HR",2022-09-09,174006928,87,87,52,52
+416,How Do I Say Goodbye,Dean Lewis,2022-08-05,284785823,82,40,64,39
+417,Blind,SZA,2022-12-09,163284000,114,46,28,60
+418,Die For You,Joji,2022-11-04,246390068,148,47,52,15
+419,Doja,Central Cee,2022-07-20,482257456,140,91,57,97
+420,Gatita,Bellakath,2022-10-03,168684524,101,90,81,76
+421,Rumble,"Skrillex, Flowdan, Fred again..",2022-01-17,78489819,140,81,84,6
+422,Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage],"Travis Scott, 21 Savage, Metro Boomin",2022-12-02,195516622,88,49,66,24
+423,Yonaguni,Bad Bunny,2021-06-04,1260594497,180,64,65,44
+424,Super Freaky Girl,Nicki Minaj,2022-08-12,428685680,133,95,89,91
+425,Running Up That Hill (A Deal With God),Kate Bush,1985-09-16,1024858327,108,63,55,20
+426,Dream On,Aerosmith,1973-01-05,838586769,80,39,43,24
+427,Limbo,Freddie Dredd,2022-08-11,199386237,75,80,62,46
+428,Where Are You Now,"Lost Frequencies, Calum Scott",2021-07-30,972509632,121,67,64,26
+429,WORTH NOTHING,"Twisted, Oliver Tree",2022-09-28,213438580,140,58,62,17
+430,Bad Habits,Ed Sheeran,2020-09-03,1555511105,126,81,90,59
+431,KICK BACK,Kenshi Yonezu,2022-10-12,210038833,102,58,94,29
+432,Evergreen (You Didnï¿½ï¿½ï¿½t Deserve Me A,Omar Apollo,2022-04-08,227918678,82,70,34,31
+433,Good Days,SZA,2020-12-24,826623384,121,46,78,53
+434,Levitating (feat. DaBaby),"Dua Lipa, DaBaby",2020-03-27,1802514301,103,70,83,92
+435,Woman,Doja Cat,2021-06-25,1329090101,108,82,76,88
+436,Shut up My Moms Calling - (Sped Up),Hotel Ugly,2022-09-14,181831132,85,65,47,36
+437,Ferrari,"James Hype, Miggy Dela Rosa",2022-03-14,462791599,125,84,69,70
+438,"You're On Your Own, Kid",Taylor Swift,2022-10-21,348647203,120,69,39,40
+439,"Kesariya (From ""Brahmastra"")","Pritam, Arijit Singh, Amitabh Bhattacharya",2022-07-17,366599607,94,58,57,44
+440,Agudo Mï¿½ï¿½gi,"Styrx, utku INC, Thezth",1930-01-01,90598517,130,65,80,49
+441,Payphone,"Maroon 5, Wiz Khalifa",2012-01-01,1479264469,110,74,74,51
+442,All I Want for Christmas Is You,Mariah Carey,1994-10-28,1449779435,150,34,63,33
+443,Last Christmas,Wham!,1984-01-01,1159176109,107,74,65,88
+444,Rockin' Around The Christmas Tree,Brenda Lee,1958-01-01,769213520,140,70,41,85
+445,Jingle Bell Rock,Bobby Helms,1957-01-01,741301563,119,74,37,78
+446,It's Beginning To Look A Lot Like Christmas,Michael Bublï¿,2011-10-14,807561936,93,35,23,38
+447,Santa Tell Me,Ariana Grande,2013-12-13,834129063,133,46,63,53
+448,It's the Most Wonderful Time of the Year,Andy Williams,1963-10-14,663832097,202,24,60,76
+449,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,1959-11-16,446390129,134,45,24,72
+450,Snowman,Sia,2017-01-01,690104769,105,72,51,33
+451,Underneath the Tree,Kelly Clarkson,2013-10-25,485285717,160,51,81,69
+452,Feliz Navidad,Josï¿½ï¿½ Felic,1970-11-01,520034544,148,50,82,96
+453,Holly Jolly Christmas,Michael Bublï¿,2011-10-14,476244795,151,65,47,70
+454,Mistletoe,Justin Bieber,2011-01-01,629173063,162,67,54,88
+455,Sleigh Ride,The Ronettes,1963-11-22,404664135,92,53,77,84
+456,Seek & Destroy,SZA,2022-12-09,98709329,152,65,65,35
+457,Love Language,SZA,2022-12-09,110849052,65,71,26,55
+458,Happy Xmas (War Is Over),"John Lennon, The Harlem Community Choir, The Plastic Ono Band, Yoko Ono",1971-12-01,460492795,147,33,61,39
+459,Used (feat. Don Toliver),"SZA, Don Toliver",2022-12-08,94005786,150,73,69,71
+460,A Holly Jolly Christmas - Single Version,Burl Ives,1952-01-01,395591396,140,67,36,81
+461,The Christmas Song (Merry Christmas To You) - Remastered 1999,Nat King Cole,1946-11-01,389771964,139,36,15,22
+462,Wonderful Christmastime - Edited Version / Remastered 2011,Paul McCartney,1979-11-16,403939487,95,75,58,74
+463,Do They Know It's Christmas? - 1984 Version,Band Aid,1984-11-25,481697415,115,60,57,23
+464,Ghost in the Machine (feat. Phoebe Bridgers),"SZA, Phoebe Bridgers",2022-12-09,110073250,125,62,43,59
+465,Special,SZA,2022-12-09,88092256,76,60,20,19
+466,Merry Christmas Everyone,Shakin' Stevens,1984-01-01,351636786,101,72,87,91
+467,Let It Snow! Let It Snow! Let It Snow!,"Frank Sinatra, B. Swanson Quartet",1950-01-01,473248298,143,60,32,86
+468,SOS,SZA,2022-12-09,73981293,119,51,66,51
+469,Open Arms (feat. Travis Scott),"SZA, Travis Scott",2022-12-08,155653938,78,67,59,22
+470,White Christmas,"Bing Crosby, John Scott Trotter & His Orchestra, Ken Darby Singers",1942-01-01,395591396,96,23,25,19
+471,Driving Home for Christmas - 2019 Remaster,Chris Rea,1986-01-01,429504768,180,51,58,87
+472,Christmas (Baby Please Come Home),Darlene Love,1963-11-22,242767149,126,34,76,35
+473,Gone Girl,SZA,2022-12-09,65362788,150,43,44,42
+474,F2F,SZA,2022-12-09,67540165,90,53,74,47
+475,Notice Me,SZA,2022-12-09,62019074,160,72,68,78
+476,Merry Christmas,"Ed Sheeran, Elton John",2017-11-10,135723538,114,59,94,60
+477,It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),"Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",1958-01-01,295998468,113,73,32,72
+478,My Only Wish (This Year),Britney Spears,2000-11-07,261116938,147,67,72,69
+479,Antidepresan,"Mabel Matiz, Mert Demir",2022-11-04,136689549,100,70,59,92
+480,Wild Flower (with youjeen),RM,2022-12-02,135611421,155,49,77,42
+481,I Hate U,SZA,2021-12-03,356709897,107,54,39,41
+482,Raindrops (Insane) [with Travis Scott],"Travis Scott, Metro Boomin",2022-12-02,110649992,112,80,54,15
+483,Deck The Hall - Remastered 1999,Nat King Cole,1959-01-01,127027715,107,69,36,96
+484,Smoking on my Ex Pack,SZA,2022-12-09,57144458,81,47,68,33
+485,Conceited,SZA,2022-12-09,56870689,150,79,46,77
+486,Snow On The Beach (feat. Lana Del Rey),"Taylor Swift, Lana Del Rey",2022-10-21,323437194,110,66,32,19
+487,Maroon,Taylor Swift,2022-10-21,317726339,108,64,40,4
+488,Tubarï¿½ï¿½o Te,"Dj LK da Escï¿½ï¿½cia, Tchakabum, mc jhenny, M",2022-09-28,116144341,130,89,74,48
+489,Bejeweled,Taylor Swift,2022-10-21,328207708,164,70,56,39
+490,Tarot,"Bad Bunny, Jhay Cortez",2022-05-06,608228647,114,80,68,42
+491,You Make It Feel Like Christmas (feat. Blake Shelton),"Gwen Stefani, Blake Shelton",2005-09-20,180577478,93,63,88,93
+492,Desesperados,"Chencho Corleone, Rauw Alejandro",2021-06-25,809306935,90,87,69,51
+493,Too Late,SZA,2022-12-08,49262961,128,45,68,35
+494,Party,"Bad Bunny, Rauw Alejandro",2022-05-06,614555082,97,83,80,47
+495,Run Rudolph Run - Single Version,Chuck Berry,1958-01-01,245350949,152,69,71,94
+496,Jingle Bells - Remastered 1999,Frank Sinatra,1957-01-01,178660459,175,51,34,94
+497,Far,SZA,2022-12-09,51641685,116,61,55,48
+498,On Time (with John Legend),"John Legend, Metro Boomin",2022-12-02,78139948,80,33,59,51
+499,GATï¿½ï¿½,"Maldy, Karol G",2022-08-25,322336177,93,63,86,34
+500,ýýýabcdefu,Gayle,2021-08-13,1007612429,122,70,54,42
+501,Sacrifice,The Weeknd,2022-01-07,326792833,122,70,79,91
+502,Is There Someone Else?,The Weeknd,2022-01-07,391251368,135,70,58,60
+503,Fingers Crossed,"Lauren Spencer Smith, Lauren Spencer Smith, Lauren Spencer Smith",2022-01-05,349585590,109,60,47,45
+504,Out of Time,The Weeknd,2022-01-07,339659802,93,65,74,82
+505,Do It To It,"Cherish, ACRAZE",2021-08-20,674772936,125,85,81,64
+506,We Don't Talk About Bruno,"Adassa, Mauro Castillo, Stephanie Beatriz, Encanto - Cast, Rhenzy Feliz, Diane Guerrero, Carolina Gaitan",2021-11-19,432719968,206,58,45,83
+507,Pepas,Farruko,2021-06-24,1309887447,130,76,77,44
+508,How Do I Make You Love Me?,The Weeknd,2022-01-07,119238316,121,80,51,62
+509,Gasoline,The Weeknd,2022-01-07,116903579,123,74,73,35
+510,Infinity,Jaymes Young,2017-06-23,888046992,122,67,67,50
+511,Less Than Zero,The Weeknd,2022-01-07,200660871,143,53,79,50
+512,Take My Breath,The Weeknd,2021-08-06,130655803,121,70,77,35
+513,good 4 u,Olivia Rodrigo,2021-05-14,1887039593,166,56,66,68
+514,"Here We Goï¿½ï¿½ï¿½ Again (feat. Tyler, the Cr","The Weeknd, Tyler, The Creator",2022-01-07,88103848,135,41,64,27
+515,Best Friends,The Weeknd,2022-01-07,101114984,87,49,59,49
+516,Kiss Me More (feat. SZA),"SZA, Doja Cat",2021-04-09,1575467011,111,77,66,74
+517,I Heard You're Married (feat. Lil Wayne),"The Weeknd, Lil Wayne",2022-01-07,91656026,110,75,84,85
+518,Need To Know,Doja Cat,2021-06-11,1042568408,130,66,61,19
+519,MONTERO (Call Me By Your Name),Lil Nas X,2020-09-18,1735441776,179,61,51,76
+520,love nwantiti (ah ah ah),Ckay,2019-07-26,726837877,93,74,73,53
+521,Dawn FM,The Weeknd,2022-01-07,53933526,78,27,49,10
+522,Surface Pressure,Jessica Darrow,2021-11-19,267758538,180,65,58,37
+523,Starry Eyes,The Weeknd,2022-01-07,74601456,86,28,41,13
+524,THATS WHAT I WANT,Lil Nas X,2021-09-17,920797189,88,74,85,55
+525,One Right Now (with The Weeknd),"The Weeknd, Post Malone",2021-11-05,539595276,97,68,78,72
+526,Beggin,Mï¿½ï¿½ne,2017-12-08,1367810478,134,71,80,59
+527,Mon Amour - Remix,"Aitana, zzoilo",2020-09-21,578207856,116,75,76,36
+528,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),"Julieta Venegas, Bad Bunny, Tainy",2021-10-05,775542072,170,64,70,14
+529,MONEY,Lisa,2021-09-10,863625566,140,83,55,40
+530,The Motto,"Tiï¿½ï¿½sto, Ava",2021-11-04,656013912,118,75,76,46
+531,Happier Than Ever,Billie Eilish,2021-07-30,1056760045,65,31,24,31
+532,Moth To A Flame (with The Weeknd),"The Weeknd, Swedish House Mafia",2021-10-22,611994237,120,56,67,16
+533,traitor,"Juan Cruz Toledo, Huilen Toledo",2021-05-21,1230855859,176,29,33,12
+534,Toxic,BoyWithUke,2021-09-10,582981380,180,59,61,69
+535,drivers license,Olivia Rodrigo,2021-01-08,1858144199,144,59,43,21
+536,Malvadï¿½ï¿,"Xamï¿½ï¿½, Gustah, Neo B",2021-11-30,240684449,133,82,61,52
+537,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,2021-11-12,583687007,93,63,52,21
+538,Donï¿½ï¿½ï¿½t Break My,The Weeknd,2022-01-07,63803529,122,77,62,25
+539,Oh My God,Adele,2021-11-19,466214729,88,53,73,55
+540,Entre Nosotros (Remix) [con Nicki Nicole],"Lit Killah, Maria Becerra, Tiago pzk, NICKI NICOLE",2022-01-05,236940480,170,70,44,61
+541,A Tale By Quincy,The Weeknd,2022-01-07,41924466,94,46,50,55
+542,I AM WOMAN,Emmy Meli,2021-11-18,225259194,170,65,47,46
+543,Medallo,"Justin Quiles, Lenny Tavï¿½ï¿½rez, BL",2021-10-27,393230256,90,79,70,79
+544,It'll Be Okay,Shawn Mendes,2021-12-01,287201015,78,40,29,7
+545,Softcore,The Neighbourhood,2018-03-09,599770206,94,57,58,36
+546,Super Gremlin,Kodak Black,2021-10-30,342779426,73,83,41,11
+547,Volvï¿,"Aventura, Bad Bunny",2021-08-03,673801126,176,73,86,79
+548,Todo De Ti,Rauw Alejandro,2020-11-02,1168642797,128,81,63,57
+549,Love Nwantiti - Remix,"Ckay, AX'EL, Dj Yo!",2019-08-30,540539717,120,58,60,44
+550,Smokin Out The Window,"Bruno Mars, Anderson .Paak, Silk Sonic",2021-11-05,383550148,82,63,62,85
+551,Meet Me At Our Spot,"THE ANXIETY, Willow, Tyler Cole",2020-03-13,530511203,95,77,47,40
+552,Every Angel is Terrifying,The Weeknd,2022-01-07,37307967,118,44,94,52
+553,Tacones Rojos,Sebastian Yatra,2021-10-22,510876816,123,75,86,93
+554,Peaches (feat. Daniel Caesar & Giveon),"Justin Bieber, Daniel Caesar, Giveon",2021-03-19,1445941661,90,63,68,49
+555,Dakiti,"Bad Bunny, Jhay Cortez",2020-10-30,1763363713,110,73,57,14
+556,"Tiago PZK: Bzrp Music Sessions, Vol. 48","Bizarrap, Tiago pzk",2021-12-29,374191487,96,66,82,76
+557,Lï¿½ï¿½ï¿,Stromae,2022-01-09,108809090,88,56,55,58
+558,Nostï¿½ï¿½l,"Chris Brown, Rvssian, Rauw Alejandro",2021-09-08,436695353,98,73,85,60
+559,Better Days (NEIKED x Mae Muller x Polo G),"NEIKED, Mae Muller, Polo G",2021-09-24,421040617,110,72,68,67
+560,Life Goes On,Oliver Tree,2020-07-17,501541661,80,70,49,57
+561,Sad Girlz Luv Money Remix (feat. Kali Uchis),"Kali Uchis, Amaarae, Moliy",2021-09-16,354065229,110,86,53,31
+562,Butter,BTS,2021-05-21,1143647827,110,79,36,70
+563,pushin P (feat. Young Thug),"Young Thug, Future, Gunna",2022-01-07,311395144,78,77,42,49
+564,You Right,"Doja Cat, The Weeknd",2021-06-24,672656250,129,83,62,44
+565,deja vu,Olivia Rodrigo,2021-04-01,1256880657,181,44,60,22
+566,Dynamite,BTS,2020-08-21,1692897992,114,75,77,74
+567,TO THE MOON,Jnr Choi,2021-11-05,245095641,144,74,65,39
+568,Lost in the Fire,"The Weeknd, Gesaffelstein",2019-01-11,686734357,101,66,68,18
+569,Salimo de Noche,"Trueno, Tiago pzk",2021-10-21,261414174,84,67,63,78
+570,Volando - Remix,"Sech, Bad Bunny, Mora",2021-07-08,610045621,154,66,69,63
+571,Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",2021-03-05,1115880852,148,59,62,72
+572,Knife Talk (with 21 Savage ft. Project Pat),"Drake, Project Pat, 21 Savage",2021-09-03,594482982,146,85,37,22
+573,Don't Be Shy,"Tiï¿½ï¿½sto, Kar",2021-08-01,566954746,120,77,79,51
+574,LA FAMA (with The Weeknd),"The Weeknd, ROSALï¿½",2021-11-11,374706940,136,77,30,82
+575,The Family Madrigal,"Olga Merediz, Stephanie Beatriz, Encanto - Cast",2021-11-19,184937148,141,59,63,56
+576,Phantom Regret by Jim,The Weeknd,2022-01-07,31959571,108,46,48,23
+577,Dos Oruguitas,Sebastian Yatra,2021-11-19,167076418,94,42,36,47
+578,Freaks,Surf Curse,2015-05-10,824420218,180,35,94,41
+579,Acapulco,Jason Derulo,2021-09-01,363467642,122,77,79,51
+580,Daddy Issues,The Neighbourhood,2015-10-30,1127468248,85,59,52,33
+581,thought i was playing,"21 Savage, Gunna",2022-01-07,60680939,148,68,73,29
+582,ELEVEN,IVE,2021-12-01,247737946,120,83,73,59
+583,Mood (feat. Iann Dior),"24kgoldn, Iann Dior",2020-07-24,1699402402,91,70,72,76
+584,What Else Can I Do?,"Stephanie Beatriz, Diane Guerrero",2021-11-19,154797871,120,72,71,54
+585,DANCE CRIP,Trueno,2021-11-17,198883004,106,86,79,86
+586,Miserable Man,David Kushner,2022-01-07,124407432,110,63,35,31
+587,happier,Olivia Rodrigo,2021-05-21,850608354,169,39,45,36
+588,Praise God,Kanye West,2021-08-29,376333030,118,80,55,21
+589,Get Into It (Yuh),Doja Cat,2021-06-25,516784627,92,91,66,79
+590,Before You Go,Lewis Capaldi,2019-11-01,1608045237,112,45,60,19
+591,Sky,Playboi Carti,2020-12-25,506778838,140,79,91,56
+592,Rolling in the Deep,Adele,2010-11-29,1472799873,105,73,76,52
+593,Sobrio,Maluma,2021-07-08,513643924,178,76,77,63
+594,Peru,"Ed Sheeran, Fireboy DML",2021-12-23,261286503,108,96,42,71
+595,favorite crime,Olivia Rodrigo,2021-05-21,783706581,173,40,29,19
+596,Thunder,"Prezioso, Gabry Ponte, LUM!X",2021-05-07,422691058,101,67,90,40
+597,The Business,Tiï¿½ï¿,2020-01-01,1062345656,120,80,62,24
+598,positions,Ariana Grande,2020-10-23,1252563873,144,73,80,66
+599,I WANNA BE YOUR SLAVE,Mï¿½ï¿½ne,2021-03-19,851070493,133,75,61,96
+600,Vai Lï¿½ï¿½ Em Casa ,"Marï¿½ï¿½lia Mendonï¿½ï¿½a, George Henrique &",2021-10-22,263894529,158,46,83,62
+601,The Feels,TWICE,2021-10-01,345903614,120,81,90,92
+602,HEARTBREAK ANNIVERSARY,Giveon,2020-02-21,951637566,129,61,46,59
+603,No Lie,"Sean Paul, Dua Lipa",2016-11-18,956865266,102,74,89,45
+604,OUT OUT (feat. Charli XCX & Saweetie),"Charli XCX, Jax Jones, Joel Corry, Saweetie",2021-08-13,427486004,124,79,84,79
+605,Pope Is a Rockstar,SALES,2016-04-20,156658366,90,73,45,31
+606,2055,Sleepy hallow,2021-04-14,624515457,161,78,52,65
+607,Bored,Billie Eilish,2017-03-30,777765388,120,60,33,11
+608,Happier Than Ever - Edit,Billie Eilish,2021-07-28,412795151,81,45,57,12
+609,Astronaut In The Ocean,Masked Wolf,2019-01-01,1138474110,150,78,70,47
+610,Ley Seca,"Anuel Aa, Jhay Cortez",2021-09-02,355219175,105,76,84,58
+611,Every Summertime,NIKI,2021-08-10,290228626,79,63,67,76
+612,Talking To The Moon,Bruno Mars,2010-10-04,1062956628,146,52,61,7
+613,you broke me first,Tate McRae,2020-04-17,1180094974,124,64,37,8
+614,The Nights,Avicii,2014-01-01,1456081449,126,53,85,66
+615,Way 2 Sexy (with Future & Young Thug),"Drake, Future, Young Thug",2021-09-03,489945871,136,80,60,33
+616,Cï¿½ï¿½,Rauw Alejandro,2021-06-25,465959382,102,77,63,26
+617,Enemy - from the series Arcane League of Legends,"Imagine Dragons, League of Legends, Arcane",2021-10-27,1223481149,77,73,74,54
+618,Dance Monkey,Tones and I,2019-05-10,2864791672,98,82,59,54
+619,Lucid Dreams,Juice WRLD,2017-06-15,2288695111,84,44,48,22
+620,Quï¿½ï¿½ Mï¿½ï¿,"J Balvin, Maria Becerra",2021-01-28,720825549,102,89,82,77
+621,All of Me,John Legend,2013-08-01,2086124197,120,42,26,33
+622,Smells Like Teen Spirit - Remastered 2021,Nirvana,1991-09-10,1690192927,117,52,91,73
+623,Arcade,Duncan Laurence,2019-03-07,991336132,72,45,33,27
+624,Fair Trade (with Travis Scott),"Drake, Travis Scott",2021-09-03,593917618,168,67,47,29
+625,Bar,"Tini, L-Gante",2021-11-11,200972675,94,52,69,68
+626,The Rumbling (TV Size),SiM,2022-01-10,71014967,145,41,88,65
+627,family ties (with Kendrick Lamar),"Kendrick Lamar, Baby Keem",2021-08-27,560222750,134,71,61,14
+628,Mr. Brightside,The Killers,2003-09-23,1806617704,148,35,93,24
+629,Blessed-Cursed,ENHYPEN,2022-01-10,77337771,127,60,89,40
+630,AM Remix,"J Balvin, Nio Garcia, Bad Bunny",2021-06-24,528544703,172,74,66,79
+631,Streets,Doja Cat,2019-11-07,865640097,90,75,46,19
+632,Shallow,"Lady Gaga, Bradley Cooper",2018-09-27,2159346687,96,57,40,30
+633,Polaroid Love,ENHYPEN,2022-01-10,211372494,138,74,67,65
+634,Leave Before You Love Me (with Jonas Brothers),"Marshmello, Jonas Brothers",2021-04-28,651732901,120,72,72,67
+635,Permission to Dance,BTS,2021-07-09,608334048,125,70,74,65
+636,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,"Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine",2021-01-15,863756573,123,82,86,80
+637,RAPSTAR,Polo G,2021-04-09,797402345,81,79,54,44
+638,'Till I Collapse,"Eminem, Nate Dogg",2002-05-26,1695712020,171,55,85,10
+639,Memories,Maroon 5,2019-09-20,1759567999,91,77,32,60
+640,Se Le Ve,"Arcangel, De La Ghetto, Justin Quiles, Lenny Tavï¿½ï¿½rez, Sech, Dalex, Dimelo Flow, Rich Music",2021-08-12,223319934,84,56,76,61
+641,25k jacket (feat. Lil Baby),"Gunna, Lil Baby",2022-01-07,54937991,115,90,54,74
+642,When Iï¿½ï¿½ï¿½m Gone (with Katy ,"Katy Perry, Alesso",2021-12-29,226897599,125,69,89,70
+643,Esqueï¿½ï¿½a-Me Se For C,"Marï¿½ï¿½lia Mendonï¿½ï¿½a, Maiara &",2021-10-14,258316038,122,80,69,62
+644,Miï¿½ï¿½n,"Tini, Maria Becerra",2021-04-29,596152090,92,85,54,92
+645,Sï¿½ï¿½,"Anuel Aa, Myke Towers, Jhay Cortez",2021-11-18,177129919,90,63,75,75
+646,MAMIII,"Karol G, Becky G",2022-02-10,716591492,94,84,70,90
+647,Still D.R.E.,"Dr. Dre, Snoop Dogg",1999-01-01,1210599487,93,81,78,53
+648,Stay Alive (Prod. SUGA of BTS),Jung Kook,2022-02-11,246376690,130,51,76,50
+649,Boyfriend,Dove Cameron,2022-02-11,496311364,180,35,61,23
+650,The Joker And The Queen (feat. Taylor Swift),"Ed Sheeran, Taylor Swift",2022-02-11,146789379,134,53,31,31
+651,The Next Episode,"Dr. Dre, Snoop Dogg",1999-01-01,843309044,95,92,89,31
+652,Light Switch,Charlie Puth,2022-01-19,500340342,184,69,63,91
+653,City of Gods,"Kanye West, Alicia Keys, Fivio Foreign",2022-02-11,107255472,147,47,80,50
+654,Brividi,"Mahmood, Blanco",2022-02-02,135079152,123,52,60,44
+655,Lost,Frank Ocean,2012-01-01,822239726,123,91,61,49
+656,In Da Club,50 Cent,2002-01-01,1202722675,90,90,71,79
+657,she's all i wanna be,Tate McRae,2022-02-04,343197054,160,61,64,65
+658,Ginseng Strip 2002,Yung Lean,2013-08-16,240769997,115,60,71,37
+659,All For Us - from the HBO Original Series Euphoria,"Labrinth, Zendaya",2019-08-04,426204830,141,37,67,17
+660,Notion,The Rare Occasions,2016-08-05,421135627,160,31,88,30
+661,Formula,Labrinth,2019-10-04,554875730,145,57,66,23
+662,Mount Everest,Labrinth,2019-06-21,467727006,89,46,43,43
+663,Excuses,"Intense, AP Dhillon, Gurinder Gill",2020-07-24,327498031,95,84,72,49
+664,Cigarettes,Juice WRLD,2021-12-10,185408548,160,60,62,47
+665,"Cayï¿½ï¿½ La Noche (feat. Cruz Cafunï¿½ï¿½, Abhir Hathi, Bejo, EL IMA)","Quevedo, La Pantera, Juseph, Cruz Cafunï¿½ï¿½, Bï¿½ï¿½jo, Abhir Hathi",2022-01-14,245400167,174,67,75,74
+666,California Love - Original Version (Explicit),"Dr. Dre, 2Pac, Roger",1995-12-28,579395142,92,77,84,76
+667,Forgot About Dre,"Eminem, Dr. Dre",1999-01-01,675039469,134,93,74,61
+668,Down Under (feat. Colin Hay),"Luude, Colin Hay",2021-11-19,252871192,172,31,86,4
+669,Mujeriego,Ryan Castro,2021-12-17,231996128,80,76,62,92
+670,HUMBLE.,Kendrick Lamar,2017-03-30,1929770265,150,91,60,42
+671,Stan,"Eminem, Dido",1999-11-21,918915401,80,78,74,53
+672,Contection,"GODZZ__-, Zakaria",2020-01-16,1180896317,166,81,75,83
+673,Swim,Chase Atlantic,2017-10-04,498960285,120,67,54,8
+674,A Tu Merced,Bad Bunny,2020-02-29,685071800,92,86,79,89
+675,Numb Little Bug,Em Beihold,2022-01-28,258714692,85,74,52,61
+676,212,"Mainstreet, Chefin",2022-01-15,143139338,154,79,52,86
+677,Problemï¿½,"Alvaro Diaz, Rauw Alejandro",2021-10-22,209768491,92,73,74,37
+678,Bussin,"Nicki Minaj, Lil Baby",2022-02-11,64714573,140,89,70,75
+679,Worst Day,Future,2022-02-11,50746620,89,65,60,60
+680,Malvada,Zï¿½ï¿½ Fe,2022-01-28,154119539,135,89,86,89
+681,Hrs and Hrs,Muni Long,2021-11-19,181328253,140,51,53,66
+682,Alien Blues,Vundabar,2015-07-24,370068639,82,47,76,44
+683,Thinking Out Loud,Ed Sheeran,2014-01-01,2280566092,79,78,45,58
+684,Still Don't Know My Name,Labrinth,2019-10-04,563902868,88,31,63,31
+685,Christmas Tree,V,2021-12-24,317622165,139,44,38,18
+686,Mal Feito - Ao Vivo,"Marï¿½ï¿½lia Mendonï¿½ï¿½a, Hugo & G",2022-01-14,291709698,124,73,83,68
+687,When I R.I.P.,Labrinth,2019-10-04,203680270,80,39,55,45
+688,Do We Have A Problem?,"Nicki Minaj, Lil Baby",2022-02-04,81350745,120,84,51,54
+689,Forever,Labrinth,2019-10-04,282883169,80,56,46,19
+690,Gospel (with Eminem),"Eminem, Dr. Dre",2022-02-04,64787943,117,92,86,62
+691,Seï¿½ï¿½o,"Shawn Mendes, Camila Cabello",2019-06-19,2484812918,117,76,52,77
+692,NEW MAGIC WAND,"Tyler, The Creator",2019-05-16,461437791,140,62,73,46
+693,Adore You,Harry Styles,2019-12-06,1439191367,99,68,77,57
+694,La Santa,"Daddy Yankee, Bad Bunny",2020-02-29,759208783,93,74,87,59
+695,Something In The Way - Remastered 2021,Nirvana,1991-09-24,368646862,106,44,20,8
+696,Sweetest Pie,"Dua Lipa, Megan Thee Stallion",2022-03-11,299634472,124,81,63,68
+697,Bam Bam (feat. Ed Sheeran),"Camila Cabello, Ed Sheeran",2022-03-04,756907987,95,76,70,96
+698,Una Noche en Medellï¿½,Cris Mj,2022-01-21,682475162,96,87,53,82
+699,Envolver,Anitta,2021-11-11,546191065,92,81,73,40
+700,Starlight,Dave,2022-03-03,229473310,124,95,37,36
+701,Hati-Hati di Jalan,Tulus,2022-03-03,202677468,72,64,44,76
+702,"I'm Tired - From ""Euphoria"" An Original HBO Series",Labrinth,2022-02-04,121913181,71,28,20,26
+703,DANï¿½ï¿½A,"Mc Pedrinho, Pedro Sampaio",2022-02-01,208166039,135,78,57,55
+704,Yo Voy (feat. Daddy Yankee),Zion & Lennox,2004-05-04,527033089,95,81,70,56
+705,"Residente: Bzrp Music Sessions, Vol. 49","Residente, Bizarrap",2022-03-03,94616487,71,59,74,70
+706,Jordan,Ryan Castro,2021-04-30,394030335,180,80,68,71
+707,Nail Tech,Jack Harlow,2022-02-18,193443895,150,65,58,11
+708,Chale,Eden Muï¿½ï,2022-02-18,299648208,189,55,44,86
+709,DARARI,Treasure,2022-02-15,182978249,85,72,64,55
+710,Ya No Somos Ni Seremos,Christian Nodal,2022-02-18,319757142,140,59,45,73
+711,Thinking with My Dick,"Kevin Gates, Juicy J",2013-07-16,109091573,81,77,70,68
+712,Freaky Deaky,"Tyga, Doja Cat",2022-02-25,153240879,104,80,65,24
+713,this is what falling in love feels like,JVKE,2021-09-03,346127840,129,42,44,33
+714,La Zona,Bad Bunny,2020-02-29,312622938,94,76,80,81
+715,Bohemian Rhapsody - Remastered 2011,Queen,1975-10-31,2197010679,71,41,40,23
+716,Hope,XXXTENTACION,2018-03-16,1200808494,146,59,46,23
+717,Levitating,Dua Lipa,2020-03-27,797196073,103,69,88,90
+718,Wake Me Up - Radio Edit,Avicii,2013-01-01,1970673297,124,53,78,66
+719,"jealousy, jealousy",Olivia Rodrigo,2021-05-21,665765558,164,70,58,71
+720,Monï¿½ï¿½y so,YEAT,2021-09-10,263779030,138,69,57,35
+721,Demasiadas Mujeres,C. Tangana,2020-10-08,339473453,126,67,46,37
+722,Something Just Like This,"The Chainsmokers, Coldplay",2017-02-22,2204080728,103,61,65,47
+723,Closer,"The Chainsmokers, Halsey",2016-05-31,2591224264,95,75,52,64
+724,O.O,NMIXX,2022-02-22,135444283,200,39,77,28
+725,Somebody That I Used To Know,"Gotye, Kimbra",2011-01-01,1457139296,129,86,52,75
+726,Tom's Diner,"AnnenMayKantereit, Giant Rooks",2019-06-28,236872197,98,68,43,33
+727,First Class,Jack Harlow,2022-04-08,694525298,107,91,56,32
+728,Plan A,Paulo Londra,2022-03-23,240661097,174,58,83,56
+729,Fuera del mercado,Danny Ocean,2022-02-17,421365166,92,45,67,27
+730,X ï¿½ï¿½LTIMA,"Daddy Yankee, Bad Bunny",2022-03-25,349746291,90,81,83,59
+731,When You're Gone,Shawn Mendes,2022-03-31,255120451,147,60,69,58
+732,In My Head,Lil Tjay,2022-04-01,190981339,143,68,55,41
+733,Wait a Minute!,Willow,2015-01-11,924193303,101,76,71,63
+734,LOVE DIVE,IVE,2022-04-05,305771063,118,70,71,54
+735,Pantysito,"Feid, Alejo, Robi",2022-03-18,273005485,98,83,74,63
+736,Chance,Paulo Londra,2022-04-06,89566512,138,72,46,22
+737,Cool for the Summer,Demi Lovato,2015-01-01,677389855,114,59,62,30
+738,psychofreak (feat. WILLOW),"Camila Cabello, Willow",2022-04-07,75476209,180,63,64,45
+739,Angel Baby,Troye Sivan,2021-09-09,408843328,145,56,57,41
+740,Vampiro,"Matuï¿½ï¿½, Wiu, ",2022-01-30,187772591,115,78,64,63
+741,Si Quieren Frontear,"De La Ghetto, Duki, Quevedo",2022-03-31,178512385,82,79,84,48
+742,Right On,Lil Baby,2022-04-08,101780047,166,70,61,22
+743,Me Arrepentï¿,"Ak4:20, Cris Mj, Pailita",2022-03-30,118381354,92,86,79,91
+744,That's Hilarious,Charlie Puth,2022-04-08,146363130,108,71,44,55
+745,Soy El Unico,Yahritza Y Su Esencia,2022-03-25,126443991,84,71,45,63
+746,RUMBATï¿½,Daddy Yankee,2022-03-25,157990698,95,69,91,90
+747,sentaDONA (Remix) s2,"Luï¿½ï¿½sa Sonza, MC Frog, Dj Gabriel do Borel, Davi K",2022-03-17,176290831,135,93,45,77
+748,Falling,Harry Styles,2019-12-13,1023187129,110,57,27,6
+749,Sigue,"Ed Sheeran, J Balvin",1996-11-24,106933107,88,89,64,59
+750,Fim de Semana no Rio,teto,2022-03-30,139193812,119,87,50,28
+751,MANIAC,Stray Kids,2022-03-18,212234990,120,58,80,71
+752,There's Nothing Holdin' Me Back,Shawn Mendes,2016-09-23,1714490998,122,86,80,97
+753,IDGAF (with blackbear),"Blackbear, BoyWithUke",2022-03-18,197643795,98,78,75,83
+754,Golden,Harry Styles,2019-12-13,807015863,140,45,84,25
+755,Get Lucky - Radio Edit,"Pharrell Williams, Nile Rodgers, Daft Punk",2013-01-01,933815613,116,79,81,87
+756,Ain't Shit,Doja Cat,2021-06-25,499710590,124,86,49,62
+757,"Nobody Like U - From ""Turning Red""","Jordan Fisher, Josh Levi, Finneas O'Connell, 4*TOWN (From Disney and Pixarï¿½ï¿½ï¿½s Turning Red), Topher Ngo, Grayson Vill",2022-02-25,120847157,105,91,72,73
+758,Still Life,BIGBANG,2022-04-05,53909146,118,68,58,24
+759,Photograph,Ed Sheeran,2014-06-20,2236667932,108,61,38,20
+760,Love Yourself,Justin Bieber,2015-11-09,2123309722,100,61,38,53
+761,N95,Kendrick Lamar,2022-05-13,301242089,140,81,66,39
+762,Die Hard,"Kendrick Lamar, Blxst, Amanda Reifer",2022-05-13,237351106,101,78,74,40
+763,Despuï¿½ï¿½s de la P,Bad Bunny,2022-05-06,461558540,78,56,90,61
+764,Un Ratito,Bad Bunny,2022-05-06,417230415,93,79,55,22
+765,United In Grief,Kendrick Lamar,2022-05-13,156898322,87,52,83,32
+766,Father Time (feat. Sampha),"Kendrick Lamar, Sampha",2022-05-13,127309180,153,55,78,50
+767,Yo No Soy Celoso,Bad Bunny,2022-05-06,313113297,142,87,59,93
+768,Rich Spirit,Kendrick Lamar,2022-05-13,173702135,96,85,43,41
+769,Cooped Up (with Roddy Ricch),"Post Malone, Roddy Ricch",2022-05-12,271666301,125,50,78,39
+770,Me Fui de Vacaciones,Bad Bunny,2022-05-06,305650299,85,71,65,43
+771,Silent Hill,"Kendrick Lamar, Kodak Black",2022-05-13,123216717,140,92,57,78
+772,La Corriente,"Tony Dize, Bad Bunny",2022-05-06,479655659,196,66,79,58
+773,Count Me Out,Kendrick Lamar,2022-05-13,126191104,134,78,43,51
+774,Andrea,"Buscabulla, Bad Bunny",2022-05-06,344055883,103,80,62,45
+775,Dos Mil 16,Bad Bunny,2022-05-06,338422004,130,82,67,50
+776,We Cry Together,"Kendrick Lamar, Taylour Paige",2022-05-13,68895644,108,65,69,52
+777,Savior,"Kendrick Lamar, Sam Dew, Baby Keem",2022-05-13,86176890,123,61,71,66
+778,Un Coco,Bad Bunny,2022-05-06,403231558,152,84,69,74
+779,Otro Atardecer,"Bad Bunny, The Marï¿½ï",2022-05-06,319546754,108,78,60,55
+780,Worldwide Steppers,Kendrick Lamar,2022-05-13,61739839,72,56,47,56
+781,Aguacero,Bad Bunny,2022-05-06,283359161,121,86,65,67
+782,Purple Hearts,"Kendrick Lamar, Ghostface Killah, Summer Walker",2022-05-13,76831876,138,57,82,71
+783,Un Verano Sin Ti,Bad Bunny,2022-05-06,283332261,188,50,50,41
+784,ULTRA SOLO,"Polima WestCoast, Pailita",2022-02-14,307752576,110,80,85,26
+785,Ensï¿½ï¿½ï¿½ï¿½ame ,Bad Bunny,2022-05-06,279737940,105,81,79,77
+786,El Apagï¿½,Bad Bunny,2022-05-06,212351890,118,63,70,60
+787,Callaita,"Bad Bunny, Tainy",2019-05-31,1304313953,176,61,62,24
+788,Dua Lipa,Jack Harlow,2022-05-06,150500965,158,83,65,41
+789,Agosto,Bad Bunny,2022-05-06,246127838,115,85,58,72
+790,House Of Memories,Panic! At The Disco,2016-01-15,582863434,110,51,82,48
+791,Mr. Morale,"Kendrick Lamar, Tanna Leone",2022-05-13,58687425,174,73,54,26
+792,That That (prod. & feat. SUGA of BTS),"PSY, Suga",2022-04-29,212109195,130,91,96,91
+793,In The Stars,Benson Boone,2022-04-29,382199619,78,36,54,30
+794,Rich - Interlude,Kendrick Lamar,2022-05-13,41210087,104,44,42,74
+795,SUPERMODEL,Mï¿½ï¿½ne,2022-05-13,231657891,121,64,88,80
+796,Stefania (Kalush Orchestra),KALUSH,2022-03-10,53729194,105,83,82,32
+797,Thousand Miles,The Kid Laroi,2022-04-22,244741137,81,38,66,20
+798,Crown,Kendrick Lamar,2022-05-13,42485571,170,37,24,14
+799,Auntie Diaries,Kendrick Lamar,2022-05-13,37778188,78,43,38,60
+800,PUFFIN ON ZOOTIEZ,Future,2022-04-29,254218729,125,88,66,28
+801,Mirror,Kendrick Lamar,2022-05-13,53603447,92,66,65,29
+802,Beautiful Girl,Luciano,2022-04-22,160035717,140,84,42,61
+803,"Paulo Londra: Bzrp Music Sessions, Vol. 23","Bizarrap, Paulo Londra",2022-04-25,164163229,96,61,90,32
+804,Savior - Interlude,Kendrick Lamar,2022-05-13,37091576,118,66,43,83
+805,Pasoori,"Shae Gill, Ali Sethi",2022-02-06,284249832,92,71,60,67
+806,Mother I Sober (feat. Beth Gibbons of Portishead),"Kendrick Lamar, Beth Gibbons",2022-05-13,33381454,140,49,37,50
+807,TUS Lï¿½ï¿½GR,"Sech, Mora",2022-04-01,184622518,174,68,71,45
+808,Where Did You Go?,"MNEK, Jax Jones",2022-01-26,300983101,127,77,78,53
+809,I Tried to Tell Y'all,"Ugly Dray, Tesla Jnr",2022-05-06,121077868,96,71,52,37
+810,Honest (feat. Don Toliver),"Justin Bieber, Don Toliver",2022-04-29,106919680,150,82,66,82
+811,ZOOM,Jessi,2022-04-13,136996305,100,87,60,46
+812,SloMo,Chanel,2021-12-24,65719930,105,73,81,59
+813,FEARLESS,LE SSERAFIM,2022-05-02,229497852,104,86,62,43
+814,10 Things I Hate About You,Leah Kate,2022-03-23,185550869,154,54,79,45
+815,SPACE MAN,Sam Ryder,2022-02-22,54682594,80,47,83,33
+816,With you,"HA SUNG WOON, Jimin",2022-04-24,240580042,150,53,43,14
+817,Iris,The Goo Goo Dolls,1998-03-31,1284942608,156,32,72,49
+818,The Heart Part 5,Kendrick Lamar,2022-05-08,71423324,98,76,81,79
+819,San Lucas,Kevin Kaarl,2019-11-07,244891912,92,58,36,27
+820,This Love (Taylorï¿½ï¿½ï¿½s Ve,Taylor Swift,2022-05-06,132171975,144,47,50,7
+821,Good Looking,Suki Waterhouse,2017-10-20,184706613,150,37,56,27
+822,Flowers,Lauren Spencer Smith,2021-08-09,184826429,138,70,44,31
+823,Yet To Come,BTS,2022-06-10,302006641,172,56,89,68
+824,Run BTS,BTS,2022-06-10,330881149,77,72,82,70
+825,Music For a Sushi Restaurant,Harry Styles,2022-05-20,334733572,107,72,72,36
+826,Matilda,Harry Styles,2022-05-20,366214458,114,51,29,39
+827,For Youth,BTS,2022-06-10,114546317,117,63,51,29
+828,Daylight,Harry Styles,2022-05-20,290833204,146,69,45,63
+829,Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,2022-05-06,448500832,160,80,60,74
+830,Cash In Cash Out,"Pharrell Williams, Tyler, The Creator, 21 Savage",2022-06-10,136676504,120,88,56,15
+831,Potion (with Dua Lipa & Young Thug),"Calvin Harris, Dua Lipa, Young Thug",2022-05-27,190625045,100,82,70,76
+832,Born Singer,BTS,2022-06-10,79095270,158,60,84,68
+833,Little Freak,Harry Styles,2022-05-20,273194684,142,56,54,40
+834,La Llevo Al Cielo (Ft. ï¿½ï¿½engo F,"Nengo Flow, Anuel Aa, Chris Jedi, Chencho Corleone",2022-05-20,333146475,170,80,85,77
+835,True Love,"Kanye West, XXXTENTACION",2022-05-27,194902696,84,71,86,39
+836,Satellite,Harry Styles,2022-05-20,311482393,139,58,46,30
+837,Pass The Dutchie,Musical Youth,1982-01-01,195918494,151,73,67,88
+838,"Villano Antillano: Bzrp Music Sessions, Vol. 51","Bizarrap, Villano Antillano",2022-06-08,248511839,128,82,75,42
+839,Love Of My Life,Harry Styles,2022-05-20,233671263,118,56,54,20
+840,Grapejuice,Harry Styles,2022-05-20,199587884,183,65,72,88
+841,So Good,Halsey,2022-06-09,91781263,83,63,62,29
+842,Belly Dancer,"BYOR, Imanbek",2022-02-18,383835984,122,85,80,42
+843,Keep Driving,Harry Styles,2022-05-20,236060709,165,72,48,90
+844,Cinema,Harry Styles,2022-05-20,189236868,106,83,64,90
+845,Die Young (feat. 347aidan),"Sleepy hallow, 347aidan",2022-05-25,160845341,77,81,58,68
+846,Only Love Can Hurt Like This,Paloma Faith,2014-01-01,588955257,91,57,89,30
+847,Hold My Hand,Lady Gaga,2022-05-03,238350348,148,51,63,21
+848,Daydreaming,Harry Styles,2022-05-20,187703102,114,71,81,90
+849,Numb,"Marshmello, Khalid",2022-06-10,295307001,120,91,77,63
+850,Nos Comemos (feat. Ozuna),"Ozuna, Tiago pzk",2022-06-02,138334433,92,83,82,56
+851,Me and Your Mama,Childish Gambino,2016-11-10,445590495,118,56,45,25
+852,Crazy What Love Can Do,"David Guetta, Ella Henderson, Becky Hill",2022-03-18,286739476,123,60,71,46
+853,SLOW DANCING IN THE DARK,Joji,2018-09-12,1122364376,89,52,48,28
+854,Antes de Perderte,Duki,2022-06-02,157136970,110,81,93,61
+855,Boyfriends,Harry Styles,2022-05-20,137070925,118,42,20,32
+856,295,Sidhu Moose Wala,2021-05-15,183273246,90,68,76,54
+857,Tak Ingin Usai,Keisya Levronka,2022-05-13,184807630,130,49,40,14
+858,En El Radio Un Cochinero,Victor Cibrian,2022-05-13,164856284,154,70,62,97
+859,Master of Puppets (Remastered),Metallica,1986-03-03,704171068,105,54,83,59
+860,BREAK MY SOUL,Beyoncï¿,2022-06-21,354614964,115,70,88,87
+861,ULTRA SOLO REMIX,"De La Ghetto, Feid, Polima WestCoast, Paloma Mami, Pailita",2022-06-16,279717388,110,91,82,59
+862,Massive,Drake,2022-06-17,195628667,125,51,68,5
+863,Betty (Get Money),Yung Gravy,2022-06-10,221752937,102,73,75,62
+864,Ojos Marrones,Lasso,2022-02-06,263280370,120,81,65,72
+865,POP!,Nayeon,2022-06-24,213505179,97,80,86,36
+866,Layla,"Schï¿½ï¿½rze, DJ R",2022-03-24,130419412,140,44,92,41
+867,MORE,j-hope,2022-07-01,155795783,97,78,72,31
+868,Sweet Child O' Mine,Guns N' Roses,1987-01-01,1553497987,125,45,90,67
+869,Last Last,Burna Boy,2022-05-12,293466523,88,80,56,55
+870,Sticky,Drake,2022-06-17,191448892,137,88,49,8
+871,Hot Shit (feat. Ye & Lil Durk),"Kanye West, Lil Durk, Cardi B",2022-07-01,85924992,157,88,69,52
+872,Ai Preto,"L7nnon, DJ Biel do Furduncinho, Bianca",2022-06-03,176103902,130,95,57,83
+873,La Loto,"Anitta, Tini, Becky G",2022-07-06,121189256,90,85,83,80
+874,die first,Nessa Barrett,2022-06-24,131746175,183,44,67,44
+875,Afraid To Feel,LF System,2022-05-02,244790012,128,58,91,68
+876,Baile no Morro,"Mc Vitin Da Igrejinha, MC Tairon, DJ Win",2022-06-10,129314708,130,71,40,78
+877,cï¿½ï¿½mo dormi,Rels B,2022-08-04,331511413,126,63,43,56
+878,Bad Decisions (with BTS & Snoop Dogg),"Snoop Dogg, BTS, Benny Blanco",2022-08-05,219196651,120,77,87,94
+879,STAYING ALIVE (feat. Drake & Lil Baby),"Drake, DJ Khaled, Lil Baby",2022-08-05,170732845,130,72,46,18
+880,Caile,Luar La L,2020-12-18,273914335,122,70,76,46
+881,Si Te La Encuentras Por Ahï¿,Feid,2022-08-05,179061440,172,74,58,46
+882,GIVENCHY,Duki,2022-07-20,185236961,103,61,62,38
+883,ALIEN SUPERSTAR,Beyoncï¿,2022-07-29,171788484,122,55,64,46
+884,Mary On A Cross,Ghost,2019-09-13,387080183,130,47,90,56
+885,Attention,NewJeans,2022-08-01,264717480,105,81,65,70
+886,THE SHADE,Rex Orange County,2022-03-11,244928911,120,90,51,73
+887,"Come Back Home - From ""Purple Hearts""",Sofia Carson,2022-07-12,97610446,145,56,53,43
+888,El Rescate,"Grupo Marca Registrada, Junior H",2022-07-22,287278853,99,79,59,64
+889,Heartless,Kanye West,2008-01-01,887906111,88,79,65,66
+890,"Stay With Me (with Justin Timberlake, Halsey, & Pharrell)","Calvin Harris, Halsey, Pharrell Williams, Justin Timberlake",2022-07-15,123473120,126,81,73,90
+891,Siempre Pendientes,"Peso Pluma, Luis R Conriquez",2022-08-15,295152154,136,77,75,71
+892,JGL,"Luis R Conriquez, La Adictiva",2022-02-18,323455692,113,70,59,97
+893,Don't You Worry,"David Guetta, Shakira, Black Eyed Peas",2022-06-16,240918092,132,82,88,49
+894,Pipoco,"Melody, Ana Castela, Dj Chris No Beat",2022-05-20,191873381,135,77,74,74
+895,Hold Me Closer,"Elton John, Britney Spears",2017-11-10,284216603,126,67,77,49
+896,Forget Me,Lewis Capaldi,2022-09-09,239411309,102,67,74,72
+897,After LIKE,IVE,2022-08-22,265548837,125,68,92,80
+898,Bound 2,Kanye West,2013-01-01,703301727,149,37,66,28
+899,B.O.T.A. (Baddest Of Them All) - Edit,"Interplanetary Criminal, Eliza Rose",2022-06-15,244585109,137,74,89,71
+900,Talk that Talk,TWICE,2022-08-26,189476119,120,77,91,78
+901,BILLIE EILISH.,Armani White,2022-01-20,277132266,100,90,50,75
+902,Ferxxo 100,Feid,2022-06-03,278920007,164,70,57,58
+903,KU LO SA - A COLORS SHOW,Oxlade,2022-06-10,222410722,93,65,66,79
+904,Prohibidox,Feid,2022-09-13,185392587,180,65,80,52
+905,Static,Steve Lacy,2022-07-15,202452860,79,34,31,22
+906,The Scientist,Coldplay,2002-08-05,1608164312,146,56,44,21
+907,Sparks,Coldplay,2000-07-10,624101957,103,37,27,17
+908,Talk,YEAT,2022-09-02,148461629,140,70,76,26
+909,XQ Te Pones Asï¿,"Yandel, Feid",2022-09-13,47093942,92,81,70,48
+910,Selfish,PnB Rock,2016-06-23,380319238,102,64,60,4
+911,Sin Seï¿½ï,"Ovy On The Drums, Quevedo",2022-07-22,209106362,118,82,85,75
+912,Lady Mi Amor,Feid,2022-09-13,53987404,93,78,62,75
+913,Poland,Lil Yachty,2022-06-23,115331792,150,70,56,26
+914,THE LONELIEST,Mï¿½ï¿½ne,2022-10-07,225093344,130,52,60,24
+915,Bye Bye,"Marshmello, Juice WRLD",2022-10-14,84697729,83,65,53,24
+916,BABY OTAKU,"Fran C, Polima WestCoast, Nickoog Clk, Pablito Pesadilla",2022-08-18,159240673,102,84,75,43
+917,Nxde,(G)I-DLE,2022-10-17,170709584,136,73,91,65
+918,Miss You,Southstar,1982-05-16,154356956,145,66,58,24
+919,we fell in love in october,girl in red,2018-11-21,723043854,130,57,37,24
+920,2 Be Loved (Am I Ready),Lizzo,2022-07-14,247689123,156,72,77,92
+921,Celestial,Ed Sheeran,2022-09-29,176474912,123,57,85,50
+922,Typa Girl,BLACKPINK,2022-09-16,235549288,132,92,62,53
+923,I Really Want to Stay at Your House,"Rosa Walton, Hallie Coggins",2020-12-18,140430339,125,49,74,13
+924,California Breeze,Lil Baby,2022-10-14,85559365,162,74,67,22
+925,Bamba (feat. Aitch & BIA),"Luciano, Aitch, Bï¿½",2022-09-22,146223492,138,80,81,82
+926,Casei Com a Putaria,"MC Ryan SP, Love Funk, Mc Paiva ZS",2022-07-01,187701588,161,59,60,62
+927,Major Distribution,"Drake, 21 Savage",2022-11-04,154863153,131,91,55,23
+928,Pussy & Millions (feat. Travis Scott),"Drake, Travis Scott, 21 Savage",2022-11-04,191333656,122,75,63,45
+929,Vigilante Shit,Taylor Swift,2022-10-21,253650850,80,80,28,16
+930,Question...?,Taylor Swift,2022-10-21,223064273,109,75,50,11
+931,On BS,"Drake, 21 Savage",2022-11-04,170413877,158,84,36,33
+932,Mastermind,Taylor Swift,2022-10-21,218320587,126,66,35,12
+933,Circo Loco,"Drake, 21 Savage",2022-11-04,141720999,104,73,61,25
+934,Labyrinth,Taylor Swift,2022-10-21,187339835,110,48,31,15
+935,Spin Bout U,"Drake, 21 Savage",2022-11-04,198365537,130,77,70,20
+936,Sweet Nothing,Taylor Swift,2022-10-21,186104310,177,34,16,39
+937,"Would've, Could've, Should've",Taylor Swift,2022-10-21,177503916,158,48,84,55
+938,Con La Brisa,"Ludwig Goransson, Foudeqush",2022-11-04,71095708,114,62,44,25
+939,Privileged Rappers,"Drake, 21 Savage",2022-11-04,112436403,144,93,61,62
+940,The Astronaut,Jin,2022-10-28,203436468,125,54,76,22
+941,BackOutsideBoyz,Drake,2022-11-04,93367537,142,85,43,40
+942,Broke Boys,"Drake, 21 Savage",2022-11-04,106249219,120,64,53,11
+943,The Great War,Taylor Swift,2022-10-21,181382590,96,57,74,55
+944,My Mind & Me,Selena Gomez,2022-11-03,91473363,144,60,39,24
+945,Bigger Than The Whole Sky,Taylor Swift,2022-10-21,121871870,166,42,24,7
+946,A Veces (feat. Feid),"Feid, Paulo Londra",2022-11-03,73513683,92,80,67,81
+947,En La De Ella,"Feid, Sech, Jhayco",2022-10-20,133895612,97,82,77,67
+948,Alone,Burna Boy,2022-11-04,96007391,90,61,67,32
