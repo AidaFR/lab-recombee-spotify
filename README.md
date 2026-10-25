@@ -2,12 +2,12 @@
 
 ## Domeniul ales
 
-**Muzică** – cele mai ascultate piese pe Spotify în anul 2023.
+**Muzică** – cele mai ascultate piese pe Spotify în anul 2023
 
-Sistemul de recomandare construit pe parcursul laboratoarelor va sugera piese muzicale
+Sistemul de recomandare va sugera piese muzicale
 pe baza artistului, a perioadei de lansare, a popularității și a caracteristicilor audio
 (ritm, energie, cât de dansabilă și cât de veselă este piesa). De exemplu, unui utilizator
-care ascultă piese energice și dansabile i se pot recomanda alte piese cu valori apropiate
+care ascultă piese energice i se pot recomanda alte piese cu valori apropiate
 la `energy` și `danceability`.
 
 ## Dataset
@@ -25,14 +25,13 @@ la `energy` și `danceability`.
 | `artist_name` | `string` | `artist(s)_name` | artistul sau artiștii |
 | `release_date` | `timestamp` | `released_year` + `released_month` + `released_day` | data lansării piesei |
 | `streams` | `int` | `streams` | numărul total de ascultări pe Spotify |
-| `bpm` | `int` | `bpm` | ritmul piesei (bătăi pe minut) |
+| `bpm` | `int` | `bpm` | ritmul piesei |
 | `danceability` | `int` | `danceability_%` | cât de potrivită este pentru dans (0–100) |
 | `energy` | `int` | `energy_%` | intensitatea și energia piesei (0–100) |
 | `valence` | `int` | `valence_%` | starea transmisă: 0 = tristă, 100 = veselă |
 
-Coloana `item_id` (valori 1, 2, 3, …, 948) este identificatorul unic al fiecărei piese.
-Ea **nu** este înregistrată ca proprietate: Recombee o gestionează nativ sub numele `itemId`
-la încărcarea produselor (laboratorul următor).
+Coloana `item_id` este identificatorul unic al fiecărei piese.
+Ea **nu** este înregistrată ca proprietate.
 
 ## Pregătirea datelor (`prepare_dataset.py`)
 
@@ -42,18 +41,18 @@ la încărcarea produselor (laboratorul următor).
 3. Sunt eliminate **4 piese duplicate** (același titlu și același artist): SNAP,
    About Damn Time, Take My Breath, SPIT IN MY FACE!.
 4. Coloanele `released_year`, `released_month`, `released_day` sunt unite în `release_date`
-   (format `AAAA-LL-ZZ`).
-5. Coloanele care conțin `(s)` sau `%` sunt redenumite, deoarece Recombee acceptă în numele
-   proprietăților doar litere, cifre și caracterele `_ - :`.
+   (format `an-luna-zi`).
+5. Coloanele care conțin `(s)` sau `%` sunt redenumite, deoarece Recombee nu le acceptă în numele
+   proprietăților
 6. Sunt păstrate doar cele 8 proprietăți alese și este adăugată coloana `item_id`.
-7. Rezultatul este salvat în `spotify_songs_clean.csv`, în codarea UTF-8.
+7. Rezultatul este salvat în `spotify_songs_clean.csv`.
 
 ## Structura repository-ului
 
 | Fișier | Rol |
 |---|---|
 | `spotify-2023.csv` | dataset-ul original descărcat de pe Kaggle |
-| `spotify_songs_clean.csv` | dataset-ul curățat, folosit în Recombee |
+| `spotify_songs_clean.csv` | dataset-ul curățat |
 | `prepare_dataset.py` | scriptul care curăță dataset-ul |
 | `recombee_properties.py` | scriptul care înregistrează proprietățile în Recombee |
 | `requirements.txt` | bibliotecile Python necesare |
