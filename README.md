@@ -2,7 +2,7 @@
 
 ## Domeniul ales
 
-**Muzică** – cele mai ascultate piese pe Spotify în anul 2023
+**Muzică** – cele mai ascultate piese pe Spotify din 2023
 
 Sistemul de recomandare va sugera piese muzicale
 pe baza artistului, a perioadei de lansare, a popularității și a caracteristicilor audio
@@ -68,3 +68,46 @@ python prepare_dataset.py
 
 set "RECOMBEE_PRIVATE_TOKEN=<tokenul privat al bazei de date>"
 python recombee_properties.py
+
+## Laborator 3 – Încărcarea item-urilor în Recombee (`recombee_items.py`)
+
+Toate cele **948 de piese** din `spotify_songs_clean.csv` au fost încărcate cu succes în Recombee
+(rezultatul rulării: `Item-uri trimise cu succes: 948 din 948`).
+
+### Maparea CSV → Recombee
+
+| Coloana din CSV | În Recombee | Conversie |
+|---|---|---|
+| `item_id` | `itemId` (identificator nativ) | `str` |
+| `track_name`, `artist_name` | proprietăți `string` | `str` |
+| `release_date` | proprietate `timestamp` | `AAAA-LL-ZZ` → text ISO 8601 `AAAA-LL-ZZT00:00:00Z` |
+| `streams`, `bpm`, `danceability`, `energy`, `valence` | proprietăți `int` | `int` |
+
+Conversia explicită este necesară deoarece pandas citește numerele ca `numpy.int64`, pe care
+biblioteca Recombee nu le poate serializa în JSON.
+
+**Data lansării ca text ISO 8601.** Prima variantă trimitea data ca număr de secunde de la
+1.01.1970. Pentru cele 16 piese lansate înainte de 1970 (în mare parte colinde clasice, ex.
+*White Christmas* – 1942, *Jingle Bell Rock* – 1957) numărul era negativ, iar Recombee le-a respins
+cu eroarea `Invalid timestamp value`. Trimise ca text ISO 8601, aceleași date sunt acceptate.
+
+### Trimiterea în loturi (Batch)
+
+Item-urile sunt trimise cu `SetItemValues(..., cascade_create=True)` grupate în cereri `Batch`
+de câte 100 (10 cereri HTTP în loc de 948). Fiecare lot este verificat pe două niveluri:
+
+1. **Lotul întreg** – `client.send` este pus într-un bloc `try/except APIException`; dacă lotul
+   este respins (token greșit, rețea), eroarea este afișată și scriptul continuă cu loturile următoare.
+2. **Fiecare item din lot** – Recombee răspunde cu codul 200 pentru lot chiar dacă unele item-uri
+   din el au eșuat, așa că scriptul citește codul fiecărui item din răspuns și afișează ID-urile
+   item-urilor respinse. Așa au fost descoperite cele 16 piese dinainte de 1970.
+
+La final, scriptul verifică direct în Recombee numărul de item-uri (`ListItems`) și valorile
+item-ului 1 (`GetItemValues`).
+
+### Rulare
+
+```cmd
+set "RECOMBEE_PRIVATE_TOKEN=<tokenul privat al bazei de date>"
+python recombee_items.py
+
