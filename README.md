@@ -5,7 +5,7 @@
 **Muzică** – cele mai ascultate piese pe Spotify din 2023
 
 Sistemul de recomandare va sugera piese muzicale
-pe baza artistului, a perioadei de lansare, a popularității și a caracteristicilor audio
+pe baza artistului, a datei de lansare, a popularității și a caracteristicilor audio
 (ritm, energie, cât de dansabilă și cât de veselă este piesa). De exemplu, unui utilizator
 care ascultă piese energice i se pot recomanda alte piese cu valori apropiate
 la `energy` și `danceability`.
@@ -35,27 +35,27 @@ Ea **nu** este înregistrată ca proprietate.
 
 ## Pregătirea datelor (`prepare_dataset.py`)
 
-1. Fișierul original este citit cu codarea **Latin-1** (nu este salvat în UTF-8).
-2. Este eliminat **1 rând invalid** („Love Grows (Where My Rosemary Goes)”), care avea text
+1. Este eliminat **1 rând invalid** („Love Grows (Where My Rosemary Goes)”), care avea text
    în loc de număr în coloana `streams`.
-3. Sunt eliminate **4 piese duplicate** (același titlu și același artist): SNAP,
+2. Sunt eliminate **4 piese duplicate** (același titlu și același artist): SNAP,
    About Damn Time, Take My Breath, SPIT IN MY FACE!.
-4. Coloanele `released_year`, `released_month`, `released_day` sunt unite în `release_date`
+3. Coloanele `released_year`, `released_month`, `released_day` sunt unite în `release_date`
    (format `an-luna-zi`).
-5. Coloanele care conțin `(s)` sau `%` sunt redenumite, deoarece Recombee nu le acceptă în numele
-   proprietăților
-6. Sunt păstrate doar cele 8 proprietăți alese și este adăugată coloana `item_id`.
-7. Rezultatul este salvat în `spotify_songs_clean.csv`.
+4. Coloanele care conțin `(s)` sau `%` sunt redenumite, deoarece Recombee nu le acceptă în numele
+   proprietăților.
+5. Sunt pastrate doar cele 8 proprietăți alese și este adăugată coloana `item_id`.
+6. Noul rezultat este salvat în `spotify_songs_clean.csv`.
 
 ## Structura repository-ului
 
 | Fișier | Rol |
 |---|---|
-| `spotify-2023.csv` | dataset-ul original descărcat de pe Kaggle |
+| `spotify-2023.csv` | dataset-ul original de pe Kaggle |
 | `spotify_songs_clean.csv` | dataset-ul curățat |
-| `prepare_dataset.py` | scriptul care curăță dataset-ul |
+| `prepare_dataset.py` | scriptul care a curatat dataset-ul |
 | `recombee_properties.py` | scriptul care înregistrează proprietățile în Recombee |
-| `requirements.txt` | bibliotecile Python necesare |
+| `recombee_items.py` | scriptul care încarcă piesele (items) în Recombee |
+| `requirements.txt` | bibliotecile Python folosite |
 
 ## Cum se rulează
 
@@ -68,6 +68,7 @@ python prepare_dataset.py
 
 set "RECOMBEE_PRIVATE_TOKEN=<tokenul privat al bazei de date>"
 python recombee_properties.py
+```
 
 ## Laborator 3 – Încărcarea item-urilor în Recombee (`recombee_items.py`)
 
@@ -78,17 +79,16 @@ Toate cele **948 de piese** din `spotify_songs_clean.csv` au fost încărcate cu
 
 | Coloana din CSV | În Recombee | Conversie |
 |---|---|---|
-| `item_id` | `itemId` (identificator nativ) | `str` |
+| `item_id` | `itemId` (identificator) | `str` |
 | `track_name`, `artist_name` | proprietăți `string` | `str` |
 | `release_date` | proprietate `timestamp` | `AAAA-LL-ZZ` → text ISO 8601 `AAAA-LL-ZZT00:00:00Z` |
 | `streams`, `bpm`, `danceability`, `energy`, `valence` | proprietăți `int` | `int` |
 
-Conversia explicită este necesară deoarece pandas citește numerele ca `numpy.int64`, pe care
-biblioteca Recombee nu le poate serializa în JSON.
+Numerele trebuie convertite pt ca pandas le citește  ca `numpy.int64`, pe care biblioteca
+Recombee nu le poate transforma în JSON. Fără `int(...)` scriptul se oprea cu `TypeError`.
 
 **Data lansării ca text ISO 8601.** Prima variantă trimitea data ca număr de secunde de la
-1.01.1970. Pentru cele 16 piese lansate înainte de 1970 (în mare parte colinde clasice, ex.
-*White Christmas* – 1942, *Jingle Bell Rock* – 1957) numărul era negativ, iar Recombee le-a respins
+1.01.1970. Pentru cele 16 piese lansate înainte de 1970 numărul era negativ, iar Recombee le-a respins
 cu eroarea `Invalid timestamp value`. Trimise ca text ISO 8601, aceleași date sunt acceptate.
 
 ### Trimiterea în loturi (Batch)
@@ -100,14 +100,18 @@ de câte 100 (10 cereri HTTP în loc de 948). Fiecare lot este verificat pe dou�
    este respins (token greșit, rețea), eroarea este afișată și scriptul continuă cu loturile următoare.
 2. **Fiecare item din lot** – Recombee răspunde cu codul 200 pentru lot chiar dacă unele item-uri
    din el au eșuat, așa că scriptul citește codul fiecărui item din răspuns și afișează ID-urile
-   item-urilor respinse. Așa au fost descoperite cele 16 piese dinainte de 1970.
+   item-urilor respinse. Așa am descoperit cele 16 piese dinainte de 1970.
 
 La final, scriptul verifică direct în Recombee numărul de item-uri (`ListItems`) și valorile
-item-ului 1 (`GetItemValues`).
+item-ului cu nr 1 (`GetItemValues`).
 
 ### Rulare
 
 ```cmd
 set "RECOMBEE_PRIVATE_TOKEN=<tokenul privat al bazei de date>"
 python recombee_items.py
+```
 
+### Rezultat în Recombee Admin UI
+
+![Lista de items în Recombee](recombee_items_lista.png)
